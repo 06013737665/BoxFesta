@@ -1,0 +1,6 @@
+﻿@using ReportViewerForMvc;
+ 
+
+<h2>Relatório</h2>
+ 
+@Html.ReportViewer(ViewBag.ReportViewer as Microsoft.Reporting.WebForms.ReportViewer,  new { style="width:1200px; height:800px" })

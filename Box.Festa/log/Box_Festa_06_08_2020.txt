@@ -1,0 +1,86 @@
+2020-08-06 07:42:50,631 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-06 08:00:31,670 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-06 08:11:01,111 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-06 14:05:43,126 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-06 14:06:09,871 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-06 14:06:09,884 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-06 14:06:13,882 [8] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-06 14:06:13,892 [8] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-06 14:06:15,058 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-06 14:06:26,900 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-06 14:06:26,900 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-06 14:06:30,474 [5] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-06 14:06:30,474 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-06 14:06:30,975 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-06 14:07:11,557 [8] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-06 14:07:11,557 [8] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-06 14:08:04,313 [10] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-06 14:08:04,313 [10] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-06 14:08:04,667 [8] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-06 14:08:27,870 [8] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-06 14:08:27,870 [8] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-06 14:08:47,198 [8] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-06 14:08:47,198 [8] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-06 14:08:47,568 [8] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-06 14:09:48,130 [9] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-06 14:09:48,130 [9] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-06 14:10:04,843 [8] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-06 14:10:04,843 [8] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-06 14:10:05,212 [8] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-06 14:12:18,753 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-06 14:13:04,532 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-06 14:13:04,532 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-06 14:13:22,082 [6] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-06 14:13:22,098 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-06 14:13:23,223 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-06 14:14:21,101 [7] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-06 14:14:21,101 [7] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-06 14:14:30,414 [7] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-06 14:14:30,414 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-06 14:14:31,243 [10] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-06 14:15:06,382 [7] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-06 14:15:06,382 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-06 14:15:06,868 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-06 14:28:47,285 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-06 14:29:17,296 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-06 14:29:17,298 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-06 14:29:22,405 [6] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-06 14:29:22,428 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-06 14:29:23,714 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-06 14:29:30,570 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-06 14:29:30,571 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-06 14:29:49,214 [6] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-06 14:29:49,215 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-06 14:29:49,685 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-06 14:31:25,325 [5] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-06 14:31:25,326 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-06 14:31:25,772 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-06 14:32:56,963 [6] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-06 14:32:56,964 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-06 14:32:57,437 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-06 14:35:28,700 [21] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-06 14:35:28,701 [21] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-06 14:35:32,631 [21] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-06 14:35:32,631 [21] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-06 14:35:33,012 [21] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-06 14:49:01,773 [42] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-06 14:49:01,773 [42] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-06 14:49:05,660 [42] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-06 14:49:05,660 [42] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-06 14:49:07,002 [51] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-06 14:55:52,288 [59] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-06 14:55:52,289 [59] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-06 14:55:52,851 [59] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-06 14:56:52,569 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-06 14:57:19,638 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-06 14:57:19,639 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-06 14:57:23,842 [6] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-06 14:57:23,859 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-06 14:57:24,994 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-06 15:19:46,425 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-06 15:20:36,281 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-06 15:20:36,283 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-06 15:20:40,792 [7] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-06 15:20:40,816 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-06 15:20:42,258 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-06 15:22:24,015 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa

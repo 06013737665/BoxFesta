@@ -1,0 +1,681 @@
+2019-08-03 09:00:03,089 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-08-03 09:01:01,434 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-08-03 09:01:01,434 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2019-08-03 09:01:07,111 [5] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2019-08-03 09:01:07,111 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2019-08-03 09:01:09,054 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2019-08-03 09:01:10,953 [13] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2019-08-03 09:01:24,295 [13] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-08-03 09:01:24,295 [13] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2019-08-03 09:01:24,452 [13] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - NOK System.ArgumentException: Stream was not writable.
+   at System.IO.StreamWriter..ctor(Stream stream, Encoding encoding, Int32 bufferSize, Boolean leaveOpen)
+   at System.IO.StreamWriter..ctor(Stream stream)
+   at Box.Festa.Negocio.ArquivoBO.IncluirPedidoUsuario(Usuario usuarioAdicionado) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\AquivoBO.cs:line 573
+   at Box.Festa.Negocio.ArquivoBO.GravarPedido(Pedido pedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\AquivoBO.cs:line 239
+   at Box.Festa.Controllers.HomeController.CriarPedido(String cpf, String idPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 1228
+   at Box.Festa.Controllers.HomeController.PagSeguro() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 1022
+2019-08-03 15:58:41,251 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-08-03 15:59:36,474 [9] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-08-03 15:59:36,474 [9] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2019-08-03 15:59:42,496 [6] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2019-08-03 15:59:42,496 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2019-08-03 15:59:44,643 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2019-08-03 15:59:45,366 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2019-08-03 15:59:51,535 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-08-03 15:59:51,535 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2019-08-03 15:59:51,622 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - NOK System.ArgumentException: Stream was not writable.
+   at System.IO.StreamWriter..ctor(Stream stream, Encoding encoding, Int32 bufferSize, Boolean leaveOpen)
+   at System.IO.StreamWriter..ctor(Stream stream)
+   at Box.Festa.Negocio.ArquivoBO.GravarPedido(Pedido pedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\AquivoBO.cs:line 304
+   at Box.Festa.Controllers.HomeController.CriarPedido(String cpf, String idPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 1228
+   at Box.Festa.Controllers.HomeController.PagSeguro() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 1022
+2019-08-03 16:02:31,698 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-08-03 16:08:29,953 [17] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-08-03 16:08:29,953 [17] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2019-08-03 16:08:35,769 [17] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2019-08-03 16:08:35,784 [17] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2019-08-03 16:08:37,980 [17] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2019-08-03 16:08:39,750 [17] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2019-08-03 16:08:40,425 [17] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-08-03 16:08:40,425 [17] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2019-08-03 16:10:31,847 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2019-08-03 16:10:31,847 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-08-03 16:10:32,160 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - NOK System.NullReferenceException: Object reference not set to an instance of an object.
+   at Box.Festa.Controllers.HomeController.PagSeguro() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 981
+2019-08-03 16:11:23,465 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-08-03 16:11:23,465 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2019-08-03 16:11:28,563 [7] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2019-08-03 16:11:28,578 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2019-08-03 16:11:29,568 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2019-08-03 16:11:30,098 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2019-08-03 16:11:31,792 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-08-03 16:11:31,792 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2019-08-03 16:13:21,959 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-08-03 16:14:13,012 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-08-03 16:14:13,012 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2019-08-03 16:14:19,110 [6] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2019-08-03 16:14:19,110 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2019-08-03 16:14:21,119 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2019-08-03 16:14:22,891 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2019-08-03 16:14:23,548 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-08-03 16:14:23,548 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2019-08-03 16:14:37,817 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-08-03 16:21:26,608 [16] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2019-08-03 16:21:26,623 [16] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2019-08-03 16:21:26,639 [16] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2019-08-03 16:21:26,639 [16] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 16:21:26,639 [16] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 16:23:16,852 [20] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2019-08-03 16:23:16,852 [20] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2019-08-03 16:23:16,860 [20] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2019-08-03 16:23:16,860 [20] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 16:23:16,860 [20] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 16:23:22,841 [20] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 16:23:23,078 [20] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Exception Gravar ListaSystem.ArgumentException: Stream was not writable.
+   at System.IO.StreamWriter..ctor(Stream stream, Encoding encoding, Int32 bufferSize, Boolean leaveOpen)
+   at System.IO.StreamWriter..ctor(Stream stream)
+   at Box.Festa.Negocio.ArquivoBO.GravarStatusListaPedidoMesmoDia(List`1 listaPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\AquivoBO.cs:line 409
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 272
+2019-08-03 16:23:23,078 [20] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Erro1:System.ArgumentException: Stream was not writable.
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 276
+   at Box.Festa.Areas.Admin.Controllers.AdminController.AtualizarStatus(PesquisaAdmin pesquisa) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 67
+2019-08-03 16:23:23,124 [20] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar2
+2019-08-03 16:23:23,124 [20] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 16:23:23,124 [20] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 16:24:44,129 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-08-03 16:25:09,059 [8] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2019-08-03 16:25:09,059 [8] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2019-08-03 16:25:09,106 [8] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2019-08-03 16:25:09,122 [8] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 16:25:09,122 [8] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 16:25:10,783 [8] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 16:25:11,081 [8] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Exception Gravar ListaSystem.ArgumentException: Stream was not writable.
+   at System.IO.StreamWriter..ctor(Stream stream, Encoding encoding, Int32 bufferSize, Boolean leaveOpen)
+   at System.IO.StreamWriter..ctor(Stream stream)
+   at Box.Festa.Negocio.ArquivoBO.GravarStatusListaPedidoMesmoDia(List`1 listaPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\AquivoBO.cs:line 409
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 272
+2019-08-03 16:25:11,097 [8] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Erro1:System.ArgumentException: Stream was not writable.
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 276
+   at Box.Festa.Areas.Admin.Controllers.AdminController.AtualizarStatus(PesquisaAdmin pesquisa) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 67
+2019-08-03 16:25:11,113 [8] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar2
+2019-08-03 16:25:11,113 [8] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 16:25:11,113 [8] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 16:25:11,519 [8] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 16:27:00,152 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2019-08-03 16:27:00,152 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2019-08-03 16:27:00,164 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2019-08-03 16:27:00,164 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 16:27:00,164 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 16:27:07,332 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 16:27:07,472 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Exception Gravar ListaSystem.ArgumentException: Stream was not writable.
+   at System.IO.StreamWriter..ctor(Stream stream, Encoding encoding, Int32 bufferSize, Boolean leaveOpen)
+   at System.IO.StreamWriter..ctor(Stream stream)
+   at Box.Festa.Negocio.ArquivoBO.GravarStatusListaPedidoMesmoDia(List`1 listaPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\AquivoBO.cs:line 409
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 272
+2019-08-03 16:27:07,488 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Erro1:System.ArgumentException: Stream was not writable.
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 276
+   at Box.Festa.Areas.Admin.Controllers.AdminController.AtualizarStatus(PesquisaAdmin pesquisa) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 67
+2019-08-03 16:27:07,504 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar2
+2019-08-03 16:27:07,504 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 16:27:07,504 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 16:27:08,429 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 16:27:09,479 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 16:27:10,229 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 16:27:11,001 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 16:27:11,048 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar3
+2019-08-03 16:27:11,048 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 16:27:11,048 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 16:27:11,095 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar4
+2019-08-03 16:27:11,095 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 16:27:11,095 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 16:27:11,808 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 16:27:12,537 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 16:27:20,550 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 16:27:30,883 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 16:28:50,647 [43] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2019-08-03 16:28:50,647 [43] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2019-08-03 16:28:50,647 [43] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2019-08-03 16:29:06,530 [43] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 16:29:06,530 [43] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:39:37,851 [64] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2019-08-03 19:39:37,851 [64] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2019-08-03 19:39:37,882 [64] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2019-08-03 19:39:41,424 [64] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 19:39:41,424 [64] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:43:08,243 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-08-03 19:47:40,382 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-08-03 19:48:59,143 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-08-03 19:49:40,897 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2019-08-03 19:49:40,897 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2019-08-03 19:49:40,897 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2019-08-03 19:49:42,746 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 19:49:42,747 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:50:21,792 [8] DEBUG Box.Festa.Service.RestService`1+<AccessTheWebAsync>d__4 – -------------------------------task exeption System.InvalidOperationException: Start may not be called on a promise-style task.
+   at System.Threading.Tasks.Task.Start(TaskScheduler scheduler)
+   at System.Threading.Tasks.Task.Start()
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 124
+2019-08-03 19:50:23,361 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado task exceptionSystem.AggregateException: One or more errors occurred. ---> System.AggregateException: One or more errors occurred. ---> System.InvalidOperationException: Start may not be called on a promise-style task.
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 147
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Box.Festa.Areas.Admin.Controllers.AdminController.<>c__DisplayClass3_0.<SalvarStatusAlterado>b__0() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 214
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 219
+---> (Inner Exception #0) System.AggregateException: One or more errors occurred. ---> System.InvalidOperationException: Start may not be called on a promise-style task.
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 147
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Box.Festa.Areas.Admin.Controllers.AdminController.<>c__DisplayClass3_0.<SalvarStatusAlterado>b__0() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 214
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+---> (Inner Exception #0) System.InvalidOperationException: Start may not be called on a promise-style task.
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 147<---
+<---
+
+2019-08-03 19:50:23,361 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 19:50:23,610 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Exception Gravar ListaSystem.ArgumentException: Stream was not writable.
+   at System.IO.StreamWriter..ctor(Stream stream, Encoding encoding, Int32 bufferSize, Boolean leaveOpen)
+   at System.IO.StreamWriter..ctor(Stream stream)
+   at Box.Festa.Negocio.ArquivoBO.GravarStatusListaPedidoMesmoDia(List`1 listaPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\AquivoBO.cs:line 409
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 272
+2019-08-03 19:50:23,626 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Erro1:System.ArgumentException: Stream was not writable.
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 276
+   at Box.Festa.Areas.Admin.Controllers.AdminController.AtualizarStatus(PesquisaAdmin pesquisa) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 67
+2019-08-03 19:50:23,673 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar2
+2019-08-03 19:50:23,673 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 19:50:23,673 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:50:26,167 [12] DEBUG Box.Festa.Service.RestService`1+<AccessTheWebAsync>d__4 – -------------------------------task exeption System.InvalidOperationException: Start may not be called on a promise-style task.
+   at System.Threading.Tasks.Task.Start(TaskScheduler scheduler)
+   at System.Threading.Tasks.Task.Start()
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 124
+2019-08-03 19:50:26,826 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado task exceptionSystem.AggregateException: One or more errors occurred. ---> System.AggregateException: One or more errors occurred. ---> System.InvalidOperationException: Start may not be called on a promise-style task.
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 147
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Box.Festa.Areas.Admin.Controllers.AdminController.<>c__DisplayClass3_0.<SalvarStatusAlterado>b__0() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 214
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 219
+---> (Inner Exception #0) System.AggregateException: One or more errors occurred. ---> System.InvalidOperationException: Start may not be called on a promise-style task.
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 147
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Box.Festa.Areas.Admin.Controllers.AdminController.<>c__DisplayClass3_0.<SalvarStatusAlterado>b__0() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 214
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+---> (Inner Exception #0) System.InvalidOperationException: Start may not be called on a promise-style task.
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 147<---
+<---
+
+2019-08-03 19:50:26,826 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:50:27,673 [9] DEBUG Box.Festa.Service.RestService`1+<AccessTheWebAsync>d__4 – -------------------------------task exeption System.InvalidOperationException: Start may not be called on a promise-style task.
+   at System.Threading.Tasks.Task.Start(TaskScheduler scheduler)
+   at System.Threading.Tasks.Task.Start()
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 124
+2019-08-03 19:50:28,063 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado task exceptionSystem.AggregateException: One or more errors occurred. ---> System.AggregateException: One or more errors occurred. ---> System.InvalidOperationException: Start may not be called on a promise-style task.
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 147
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Box.Festa.Areas.Admin.Controllers.AdminController.<>c__DisplayClass3_0.<SalvarStatusAlterado>b__0() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 214
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 219
+---> (Inner Exception #0) System.AggregateException: One or more errors occurred. ---> System.InvalidOperationException: Start may not be called on a promise-style task.
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 147
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Box.Festa.Areas.Admin.Controllers.AdminController.<>c__DisplayClass3_0.<SalvarStatusAlterado>b__0() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 214
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+---> (Inner Exception #0) System.InvalidOperationException: Start may not be called on a promise-style task.
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 147<---
+<---
+
+2019-08-03 19:50:28,063 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:50:28,817 [7] DEBUG Box.Festa.Service.RestService`1+<AccessTheWebAsync>d__4 – -------------------------------task exeption System.InvalidOperationException: Start may not be called on a promise-style task.
+   at System.Threading.Tasks.Task.Start(TaskScheduler scheduler)
+   at System.Threading.Tasks.Task.Start()
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 124
+2019-08-03 19:50:29,224 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado task exceptionSystem.AggregateException: One or more errors occurred. ---> System.AggregateException: One or more errors occurred. ---> System.InvalidOperationException: Start may not be called on a promise-style task.
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 147
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Box.Festa.Areas.Admin.Controllers.AdminController.<>c__DisplayClass3_0.<SalvarStatusAlterado>b__0() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 214
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 219
+---> (Inner Exception #0) System.AggregateException: One or more errors occurred. ---> System.InvalidOperationException: Start may not be called on a promise-style task.
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 147
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Box.Festa.Areas.Admin.Controllers.AdminController.<>c__DisplayClass3_0.<SalvarStatusAlterado>b__0() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 214
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+---> (Inner Exception #0) System.InvalidOperationException: Start may not be called on a promise-style task.
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 147<---
+<---
+
+2019-08-03 19:50:29,224 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:50:30,780 [9] DEBUG Box.Festa.Service.RestService`1+<AccessTheWebAsync>d__4 – -------------------------------task exeption System.InvalidOperationException: Start may not be called on a promise-style task.
+   at System.Threading.Tasks.Task.Start(TaskScheduler scheduler)
+   at System.Threading.Tasks.Task.Start()
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 124
+2019-08-03 19:50:31,434 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado task exceptionSystem.AggregateException: One or more errors occurred. ---> System.AggregateException: One or more errors occurred. ---> System.InvalidOperationException: Start may not be called on a promise-style task.
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 147
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Box.Festa.Areas.Admin.Controllers.AdminController.<>c__DisplayClass3_0.<SalvarStatusAlterado>b__0() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 214
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 219
+---> (Inner Exception #0) System.AggregateException: One or more errors occurred. ---> System.InvalidOperationException: Start may not be called on a promise-style task.
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 147
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Box.Festa.Areas.Admin.Controllers.AdminController.<>c__DisplayClass3_0.<SalvarStatusAlterado>b__0() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 214
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+---> (Inner Exception #0) System.InvalidOperationException: Start may not be called on a promise-style task.
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 147<---
+<---
+
+2019-08-03 19:50:31,434 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 19:50:31,513 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar3
+2019-08-03 19:50:31,513 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 19:50:31,513 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 19:50:31,591 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar4
+2019-08-03 19:50:31,591 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 19:50:31,591 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:50:36,719 [12] DEBUG Box.Festa.Service.RestService`1+<AccessTheWebAsync>d__4 – -------------------------------task exeption System.InvalidOperationException: Start may not be called on a promise-style task.
+   at System.Threading.Tasks.Task.Start(TaskScheduler scheduler)
+   at System.Threading.Tasks.Task.Start()
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 124
+2019-08-03 19:50:39,289 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado task exceptionSystem.AggregateException: One or more errors occurred. ---> System.AggregateException: One or more errors occurred. ---> System.InvalidOperationException: Start may not be called on a promise-style task.
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 147
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Box.Festa.Areas.Admin.Controllers.AdminController.<>c__DisplayClass3_0.<SalvarStatusAlterado>b__0() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 214
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 219
+---> (Inner Exception #0) System.AggregateException: One or more errors occurred. ---> System.InvalidOperationException: Start may not be called on a promise-style task.
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 147
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Box.Festa.Areas.Admin.Controllers.AdminController.<>c__DisplayClass3_0.<SalvarStatusAlterado>b__0() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 214
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+---> (Inner Exception #0) System.InvalidOperationException: Start may not be called on a promise-style task.
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 147<---
+<---
+
+2019-08-03 19:50:39,290 [7] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:50:46,671 [9] DEBUG Box.Festa.Service.RestService`1+<AccessTheWebAsync>d__4 – -------------------------------task exeption System.InvalidOperationException: Start may not be called on a promise-style task.
+   at System.Threading.Tasks.Task.Start(TaskScheduler scheduler)
+   at System.Threading.Tasks.Task.Start()
+   at Box.Festa.Service.RestService`1.<AccessTheWebAsync>d__4.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 124
+2019-08-03 19:53:47,653 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-08-03 19:54:14,294 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2019-08-03 19:54:14,294 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2019-08-03 19:54:14,356 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2019-08-03 19:54:16,252 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 19:54:16,252 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:54:16,314 [6] DEBUG Box.Festa.Service.RestService`1 – -------------------------------task exeption System.InvalidOperationException: Start may not be called on a promise-style task.
+   at System.Threading.Tasks.Task.Start(TaskScheduler scheduler)
+   at System.Threading.Tasks.Task.Start()
+   at Box.Festa.Service.RestService`1.AtualizarStatus(String url, String content, String method, String user, String password, String domain) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Service\RestService.cs:line 173
+2019-08-03 19:55:02,213 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-08-03 19:55:28,664 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2019-08-03 19:55:28,664 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2019-08-03 19:55:28,742 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2019-08-03 19:55:30,676 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 19:55:30,691 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:55:36,542 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 19:55:36,763 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Exception Gravar ListaSystem.ArgumentException: Stream was not writable.
+   at System.IO.StreamWriter..ctor(Stream stream, Encoding encoding, Int32 bufferSize, Boolean leaveOpen)
+   at System.IO.StreamWriter..ctor(Stream stream)
+   at Box.Festa.Negocio.ArquivoBO.GravarStatusListaPedidoMesmoDia(List`1 listaPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\AquivoBO.cs:line 409
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 272
+2019-08-03 19:55:36,795 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Erro1:System.ArgumentException: Stream was not writable.
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 276
+   at Box.Festa.Areas.Admin.Controllers.AdminController.AtualizarStatus(PesquisaAdmin pesquisa) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 67
+2019-08-03 19:55:36,826 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar2
+2019-08-03 19:55:36,826 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 19:55:36,826 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:55:37,883 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:55:38,723 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:55:39,450 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:55:40,159 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 19:55:40,190 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar3
+2019-08-03 19:55:40,190 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 19:55:40,190 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 19:55:40,268 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar4
+2019-08-03 19:55:40,268 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 19:55:40,268 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:56:03,207 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:57:04,091 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-08-03 19:57:33,381 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2019-08-03 19:57:33,381 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2019-08-03 19:57:33,428 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2019-08-03 19:57:35,077 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 19:57:44,717 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:57:46,020 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 19:57:46,270 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Exception Gravar ListaSystem.ArgumentException: Stream was not writable.
+   at System.IO.StreamWriter..ctor(Stream stream, Encoding encoding, Int32 bufferSize, Boolean leaveOpen)
+   at System.IO.StreamWriter..ctor(Stream stream)
+   at Box.Festa.Negocio.ArquivoBO.GravarStatusListaPedidoMesmoDia(List`1 listaPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\AquivoBO.cs:line 409
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 272
+2019-08-03 19:57:46,285 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Erro1:System.ArgumentException: Stream was not writable.
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 276
+   at Box.Festa.Areas.Admin.Controllers.AdminController.AtualizarStatus(PesquisaAdmin pesquisa) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 67
+2019-08-03 19:57:46,332 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar2
+2019-08-03 19:57:46,332 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 19:58:39,064 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:58:52,832 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:58:54,838 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:58:56,453 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:58:57,116 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 19:58:57,257 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar3
+2019-08-03 19:58:57,257 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 19:58:57,257 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 19:58:57,288 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar4
+2019-08-03 19:58:57,288 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 19:58:58,867 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:59:04,250 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:59:05,656 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:59:06,847 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:59:16,555 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:59:17,039 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:59:17,441 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:59:17,819 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 19:59:17,820 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 19:59:17,856 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar5
+2019-08-03 19:59:17,856 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 19:59:17,856 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 19:59:17,856 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar6
+2019-08-03 19:59:17,856 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 19:59:17,856 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:00:03,716 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-08-03 20:01:28,596 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2019-08-03 20:01:28,596 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2019-08-03 20:01:28,674 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2019-08-03 20:01:30,139 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:01:31,859 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:01:31,859 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:01:32,187 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Exception Gravar ListaSystem.ArgumentException: Stream was not writable.
+   at System.IO.StreamWriter..ctor(Stream stream, Encoding encoding, Int32 bufferSize, Boolean leaveOpen)
+   at System.IO.StreamWriter..ctor(Stream stream)
+   at Box.Festa.Negocio.ArquivoBO.GravarStatusListaPedidoMesmoDia(List`1 listaPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\AquivoBO.cs:line 409
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 272
+2019-08-03 20:01:32,215 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Erro1:System.ArgumentException: Stream was not writable.
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 276
+   at Box.Festa.Areas.Admin.Controllers.AdminController.AtualizarStatus(PesquisaAdmin pesquisa) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 67
+2019-08-03 20:01:32,233 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar2
+2019-08-03 20:01:32,233 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:01:32,639 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:01:33,033 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:01:33,424 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:01:33,823 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:01:33,823 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:01:33,866 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar3
+2019-08-03 20:01:33,866 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:01:33,866 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:01:33,913 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar4
+2019-08-03 20:01:33,913 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:01:34,328 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:01:34,724 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:01:35,102 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:01:35,588 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:01:35,998 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:01:36,388 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:01:36,811 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:01:37,203 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:01:37,203 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:01:37,234 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar5
+2019-08-03 20:01:37,234 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:01:37,234 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:01:37,234 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar6
+2019-08-03 20:01:37,234 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:01:37,234 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:02:17,188 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2019-08-03 20:02:17,188 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2019-08-03 20:02:17,204 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2019-08-03 20:02:22,465 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:02:22,873 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:02:22,873 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:02:23,243 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Exception Gravar ListaSystem.ArgumentException: Stream was not writable.
+   at System.IO.StreamWriter..ctor(Stream stream, Encoding encoding, Int32 bufferSize, Boolean leaveOpen)
+   at System.IO.StreamWriter..ctor(Stream stream)
+   at Box.Festa.Negocio.ArquivoBO.GravarStatusListaPedidoMesmoDia(List`1 listaPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\AquivoBO.cs:line 409
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 272
+2019-08-03 20:03:37,545 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-08-03 20:04:01,786 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2019-08-03 20:04:01,786 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2019-08-03 20:04:01,865 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2019-08-03 20:04:01,865 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:04:03,560 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:04:03,560 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:04:03,842 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar2
+2019-08-03 20:04:03,842 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:04:04,248 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:04:04,672 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:04:05,126 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:04:05,488 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:04:05,488 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:04:05,551 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar3
+2019-08-03 20:04:05,551 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:04:05,551 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:04:05,598 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar4
+2019-08-03 20:04:05,598 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:04:06,006 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:04:09,439 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:04:09,831 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:04:10,206 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:04:10,581 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:04:10,975 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:04:11,336 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:04:11,727 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:04:11,727 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:04:11,773 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar5
+2019-08-03 20:04:11,773 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:04:11,773 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:04:11,773 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar6
+2019-08-03 20:04:11,773 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:04:11,773 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:06:08,292 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-08-03 20:06:59,010 [7] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-08-03 20:06:59,011 [7] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2019-08-03 20:07:05,447 [6] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2019-08-03 20:07:05,455 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2019-08-03 20:07:07,564 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2019-08-03 20:07:09,295 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2019-08-03 20:07:10,018 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-08-03 20:07:10,019 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2019-08-03 20:07:15,056 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-08-03 20:08:49,622 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2019-08-03 20:08:49,622 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2019-08-03 20:08:49,685 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2019-08-03 20:08:49,685 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:08:50,188 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:08:50,580 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:08:50,580 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:08:50,830 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar2
+2019-08-03 20:08:50,830 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:08:51,206 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:08:51,612 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:08:52,036 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:08:52,491 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:08:52,491 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:08:52,538 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar3
+2019-08-03 20:08:52,538 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:08:52,538 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:08:52,585 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar4
+2019-08-03 20:08:52,585 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:08:53,055 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:08:53,463 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:08:53,841 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:08:54,239 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:08:54,624 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:08:55,015 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:08:55,455 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:08:55,910 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:08:55,910 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:08:55,941 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar5
+2019-08-03 20:08:55,941 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:08:55,941 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:08:55,941 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar6
+2019-08-03 20:08:55,941 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:08:55,941 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:09:31,207 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2019-08-03 20:09:31,207 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2019-08-03 20:09:31,254 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2019-08-03 20:09:31,254 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:09:31,856 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:09:32,240 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:09:32,240 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:09:32,390 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar2
+2019-08-03 20:09:32,390 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:09:32,775 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:09:33,150 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:09:33,542 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:09:33,949 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:09:33,949 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:09:33,997 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar3
+2019-08-03 20:09:33,997 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:09:33,997 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:09:34,045 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar4
+2019-08-03 20:09:34,045 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:09:34,435 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:09:34,814 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:09:35,220 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:09:35,645 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:09:36,035 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:09:36,507 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:09:36,899 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:09:37,307 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:09:37,307 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:09:37,338 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar5
+2019-08-03 20:09:37,338 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:09:37,338 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:09:37,338 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar6
+2019-08-03 20:09:37,338 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:09:37,338 [18] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:15:53,684 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-08-03 20:18:01,838 [7] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-08-03 20:18:01,838 [7] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2019-08-03 20:18:08,125 [6] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2019-08-03 20:18:08,125 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2019-08-03 20:18:10,351 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2019-08-03 20:18:12,108 [9] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2019-08-03 20:18:21,234 [9] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-08-03 20:18:21,234 [9] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2019-08-03 20:18:21,358 [9] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - NOK Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: S. Path '', line 1, position 17242.
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at Box.Festa.Negocio.ArquivoBO.ObterUsuario(String email) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\AquivoBO.cs:line 640
+   at Box.Festa.Controllers.HomeController.CriarPedido(String cpf, String idPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 1214
+   at Box.Festa.Controllers.HomeController.PagSeguro() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 1022
+2019-08-03 20:18:59,899 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2019-08-03 20:19:08,412 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-08-03 20:19:08,412 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2019-08-03 20:19:08,443 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - NOK System.NullReferenceException: Object reference not set to an instance of an object.
+   at Box.Festa.Controllers.HomeController.CriarPedido(String cpf, String idPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 1216
+   at Box.Festa.Controllers.HomeController.PagSeguro() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 1022
+2019-08-03 20:20:40,956 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-08-03 20:21:23,716 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-08-03 20:21:23,716 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2019-08-03 20:21:30,270 [6] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2019-08-03 20:21:30,286 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2019-08-03 20:21:31,258 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2019-08-03 20:21:31,888 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2019-08-03 20:21:39,928 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-08-03 20:21:39,928 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2019-08-03 20:21:44,338 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-08-03 20:23:29,562 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2019-08-03 20:23:29,562 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2019-08-03 20:23:36,617 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2019-08-03 20:23:36,617 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:23:38,313 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:23:38,314 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:23:38,452 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar2
+2019-08-03 20:23:38,452 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:23:38,841 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:23:39,196 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:23:39,596 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:23:40,008 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:23:40,008 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:23:40,149 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar3
+2019-08-03 20:23:40,149 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:23:40,149 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:23:40,243 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar4
+2019-08-03 20:23:40,243 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:23:40,631 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:23:41,024 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:23:41,399 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:23:41,823 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:23:42,200 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:23:42,624 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:23:42,983 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:23:44,613 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2019-08-03 20:23:44,613 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:23:44,678 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar5
+2019-08-03 20:23:44,678 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:23:44,678 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:23:44,678 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar6
+2019-08-03 20:23:44,678 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2019-08-03 20:23:44,678 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2019-08-03 20:40:54,348 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-08-03 20:42:51,059 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa

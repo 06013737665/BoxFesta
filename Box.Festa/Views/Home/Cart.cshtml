@@ -1,0 +1,416 @@
+﻿@model Box.Festa.Models.Sacola
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="/js/jquery-3.2.1.min.js"></script>
+    <script src="/js/jquery.mask.js"></script>
+    <script src="/js/popper.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <link rel="icon" href="/img/fav-icon.png" type="image/x-icon" />
+
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Box Festa</title>
+    <!-- Icon css link -->
+    <link href="/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/vendors/line-icon/css/simple-line-icons.css" rel="stylesheet">
+    <link href="/vendors/elegant-icon/style.css" rel="stylesheet">
+    <!-- Bootstrap -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Rev slider css -->
+    <link href="/vendors/revolution/css/settings.css" rel="stylesheet">
+    <link href="/vendors/revolution/css/layers.css" rel="stylesheet">
+    <link href="/vendors/revolution/css/navigation.css" rel="stylesheet">
+
+    <!-- Extra plugin css -->
+    <link href="/vendors/owl-carousel/owl.carousel.min.css" rel="stylesheet">
+    <link href="/vendors/bootstrap-selector/css/bootstrap-select.min.css" rel="stylesheet">
+    <link href="/vendors/jquery-ui/jquery-ui.css" rel="stylesheet">
+
+    <link href="/css/style.css" rel="stylesheet">
+    <link href="/css/responsive.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <!--================End Footer Area =================-->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <!-- Rev slider js -->
+    <script src="/vendors/revolution/js/jquery.themepunch.tools.min.js"></script>
+    <script src="/vendors/revolution/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="/vendors/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+    <script src="/vendors/revolution/js/extensions/revolution.extension.video.min.js"></script>
+    <script src="/vendors/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+    <script src="/vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script src="/vendors/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+    <script src="/vendors/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+    <script src="/vendors/counterup/jquery.waypoints.min.js"></script>
+    <script src="/vendors/counterup/jquery.counterup.min.js"></script>
+    <script src="/vendors/owl-carousel/owl.carousel.min.js"></script>
+    <script src="/vendors/bootstrap-selector/js/bootstrap-select.min.js"></script>
+    <script src="/vendors/image-dropdown/jquery.dd.min.js"></script>
+    <script src="/js/smoothscroll.js"></script>
+    <script src="/vendors/isotope/imagesloaded.pkgd.min.js"></script>
+    <script src="/vendors/isotope/isotope.pkgd.min.js"></script>
+    <script src="/vendors/magnify-popup/jquery.magnific-popup.min.js"></script>
+    <script src="/vendors/vertical-slider/js/jQuery.verticalCarousel.js"></script>
+    <script src="/vendors/jquery-ui/jquery-ui.js"></script>
+    <script src="/js/jquery.nicescroll.min.js"></script>
+    <script src="/js/cart.js"></script>
+    <script src="/js/theme.js"></script>
+    <script src="/js/main.js"></script>
+    <script type="text/javascript"
+            src="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/api/v2/checkout/pagseguro.lightbox.js">
+    </script>
+
+
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken();
+        @Html.ValidationSummary(true);
+        @Html.Hidden("QtdeSelecionado", (int)ViewBag.QtdeProdutoSelecionado);
+        @Html.Hidden("CodePagSeguro", (string)ViewBag.CodePagSeguro);
+        @Html.Hidden("HiddenCurrentUrl", String.Format("{0}/", Request.ApplicationPath))
+        <!--================Menu Area =================-->
+        <div id="preloder">
+            <div class="loader"></div>
+        </div>
+
+
+        <div class="header_top_area">
+           
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-lg-3">
+                        <div class="top_header_left">
+                            <div class="selector">
+                                <select class="language_drop" name="countries" id="countries" style="width:300px;">
+                                    <option value='yt' data-image="/img/icon/flag-brasil.png" data-imagecss="flag yt" data-title="Brasil">Português</option>
+
+                                </select>
+                            </div>
+                            <select class="selectpicker usd_select">
+                                <option>BRL</option>
+                            </select>
+                            <div class="input-group">
+                                <input id="textoBuscar" type="text" class="form-control" placeholder="Pesquisar" aria-label="Search">
+                                <span class="input-group-btn">
+                                    <button class="btn btn-secondary" type="button" onclick="location.href = MontaCaminhoCompletoPesquisa('Home/Pesquisa')"><i class="icon-magnifier"></i></button>
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="top_header_middle">
+                            <a href="#"><i class="fa fa-phone"></i> Call Us: <span>+110 - 917 - 123 - 4567</span></a>
+                            <a href="#"><i class="fa fa-envelope"></i> Email: <span>boxfestabr@gmail.com</span></a>
+                            <img src="~/img/logo_kit_festa.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <ul class="top_right">
+                            <li class="user"><a href="#" onclick="location.href = MontaCaminhoCompletoCart('Home/Login')"><i class="icon-user icons"></i></a></li>
+                            <li class="cart"><a href="#" onclick="location.href = MontaCaminhoCompletoCart('Home/Cart')" id="carrinho"><i class="icon-handbag icons"></i><span class="carrinho"></span></a></li>
+                            <!--li class="h_price"-->
+                             
+                        </ul>
+                        <ul class="top_right">
+                            @if (Model.Usuario != null && !string.IsNullOrEmpty(Model.Usuario.Nome))
+                            {
+                                <li class="user"><label style="color:black;font-size:14px">Bem vindo, &nbsp;</label><label style="color:darkblue;font-weight:400;font-size:16px"> @Model.Usuario.PrimeiroNome </label></li>
+                            }
+                        </ul>
+                    </div>
+                    <!--div class="col-lg-3">
+                        <div class="top_right_header">
+                            <ul class="header_social">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="#"><i class="fa fa-youtube-play"></i></a></li>
+                            </ul>
+                            <ul class="top_right">
+                                <li class="user"><a href="#"><i class="icon-user icons"></i></a></li>
+                                <li class="cart"><a href="#"><i class="icon-handbag icons"></i></a></li>
+                                <li class="h_price">
+                                    <select class="selectpicker">
+                                        <option>$0.00</option>
+                                        <option>$0.00</option>
+                                        <option>$0.00</option>
+                                    </select>
+                                </li>
+                            </ul>
+                        </div>
+                    </div-->
+                </div>
+            </div>
+        </div>
+        <!--================End Top Header Area =================-->
+        <!--================Menu Area =================-->
+        <header class="shop_header_area">
+            <div class="container">
+                <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                    <a class="navbar-brand" href="#"><img src="/img/logo_kit_festa.png" alt=""></a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+                        <ul class="navbar-nav">
+
+                            <li class="nav-item"><a class="nav-link" onclick="location.href = MontaCaminhoCompletoCart('Home/Index')">Home</a></li>
+                            <li class="nav-item"><a class="nav-link" onclick="location.href = MontaCaminhoCompletoCart('Home/Login')">Login</a></li>
+
+                            <li class="nav-item"><a class="nav-link" onclick="location.href = MontaCaminhoCompletoCart('Home/Products')">Produtos</a></li>
+
+                            <li class="nav-item"><a class="nav-link" onclick="location.href = MontaCaminhoCompletoCart('Home/Cart')">Carrinho de Compras</a></li>
+                            <li class="nav-item"><a class="nav-link" onclick="location.href = MontaCaminhoCompletoCart('Home/Compras')">Minhas Compras</a></li>
+
+
+
+                            <li class="nav-item"><a class="nav-link" onclick="location.href = MontaCaminhoCompletoCart('Home/Contact')">Contato</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </header>
+        <!--================End Menu Area =================-->
+        <!--================Categories Banner Area =================-->
+        <section class="solid_banner_area">
+            <div class="container">
+                <div class="solid_banner_inner">
+                    <h3>Carrinho de Compras</h3>
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="shopping-cart.html">Carrinho de Compras</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        Html.RenderPartial("_Mensagens");
+        <!--================End Categories Banner Area =================-->
+        <!--================Shopping Cart Area =================-->
+        <section class="shopping_cart_area p_100">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8">
+                        <div class="cart_product_list">
+                            <h3 class="cart_single_title">Produtos</h3>
+                            <div class="table-responsive-md">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col"></th>
+                                            <th scope="col">produto</th>
+                                            <th scope="col">preço</th>
+                                            <th scope="col">quantidade</th>
+                                            <th scope="col">total</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (Box.Festa.Models.SacolaProduto produto in Model.Produtos)
+                                        {
+
+                                            <tr>
+                                                <th scope="row">
+                                                    <img onclick="excluirProduto(@produto.Produto.Codigo)" src="/img/icon/close-icon.png" alt="">
+                                                </th>
+                                                <td>
+                                                    <div class="media">
+                                                        <div class="d-flex">
+                                                            <img src="@produto.Produto.ImagemSacola" alt="">
+                                                        </div>
+                                                        <div class="media-body">
+                                                            <h4>@produto.Produto.Descricao</h4>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td><p>@string.Format("{0:C}", @produto.Produto.Valor)</p></td>
+                                                <td>
+                                                    <input type="text" value="@produto.Produto.Qtde" id="qtde_@produto.Produto.Codigo" maxlength="2" name="qtde_@produto.Produto.Codigo" class="qtdeText" style="width: 50%;" />  <button class="btn btn-default" onclick="atualizarQuantidade(@produto.Produto.Codigo);" type="button">
+                                                        <i class="fa fa-refresh"></i>
+                                                    </button>
+                                                </td>
+                                                @{double total = 0; double valor = @produto.Produto.Valor; double qtde = @produto.Produto.Qtde; total = valor * qtde;}
+                                                <td><p> @string.Format("{0:C}", @total)</p></td>
+                                            </tr>
+
+
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="calculate_shoping_area">
+                            <h3 class="cart_single_title">Calcular Compras <span><i class="icon_minus-06"></i></span></h3>
+                            <div class="calculate_shop_inner">
+                                   <div class="form-group col-lg-12">
+                                        <select class="selectpicker">
+                                            <option>Brasil (BRA)</option>
+
+                                        </select>
+                                    </div>
+                                    <div class="form-group col-lg-6">
+                                        @Html.TextBoxFor(model => model.Cep, new { @class = "form-control", @id = "zip", name = "zip", @placeholder = "Cep" })
+                                    </div>
+                                    <div class="form-group col-lg-6">
+                                        <div id="preloder2">
+                                            <div class="loader2"></div>
+                                        </div>
+                                        <button type="submit" onclick="$('.loader2').show(); " name="cart:Sedex" value="frete" class="btn   btn-info  form-control">Atualizar Frete</button>
+
+                                    </div>
+                                    @if (Model.MostrarEndereco)
+                                    {
+                                        <div class="form-group col-lg-6">
+                                            @Html.TextBoxFor(model => model.Rua, new { @class = "form-control", @id = "rua", name = "rua" })
+                                        </div>
+                                        <div class="form-group col-lg-6">
+                                            @Html.TextBoxFor(model => model.Cidade, new { @class = "form-control", @id = "cidade", name = "cidade" })
+                                        </div>
+                                        <div class="form-group col-lg-6">
+                                            @Html.TextBoxFor(model => model.Estado, new { @class = "form-control", @id = "estado", name = "estado" })
+                                        </div>
+                                        <div class="form-group col-lg-6">
+                                            @Html.TextBoxFor(model => model.NumeroEndereco, new { @class = "form-control", @id = "numero", name = "numero", @placeholder = "Número*" })
+                                        </div>
+                                        <div class="form-group col-lg-6">
+                                            @Html.TextBoxFor(model => model.Complemento, new { @class = "form-control", @id = "complemento", name = "complemento", @placeholder = "Complemento" })
+                                        </div>
+
+                                    }
+
+                               
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div class="total_amount_area">
+                            <div class="cupon_box">
+                                <h3 class="cart_single_title">Cupom de Desconto</h3>
+                                <div class="cupon_box_inner">
+                                    <input type="text" placeholder="Digite seu cupom aqui">
+                                    <button type="submit" class="btn btn-primary subs_btn" style="background-color:#007bff;">aplicar cupom</button>
+                                </div>
+                            </div>
+                            <div class="cart_totals">
+                                <h3 class="cart_single_title">Cupom de Desconto</h3>
+                                <div class="cart_total_inner">
+                                    <ul>
+                                        <li><a href="#"><span>Produtos</span>@string.Format("{0:C}", Model.TotalProduto) </a></li>
+                                        <li><a href="#"><span>Frete</span><label class="totalSedex">@string.Format("{0:C}", @Model.Sedex)</label></a></li>
+                                        <input type="hidden" id="sedexTexto" value="@Model.SedexFormatado" />
+                                        <li><a href="#"><span>Total</span>@string.Format("{0:C}", Model.TotalSacola) </a></li>
+                                    </ul>
+                                </div>
+                                <div class="form-group col-lg-12">
+                                    <h3 class="cart_single_title">Formas de Pagamento</h3>
+                                    <center>
+                                        <ul>
+                                            <li><input type="radio" checked="true" readonly="readonly" name="formaPagto" id="formaPagto" value="1" /><span> </span><img src="~/img/icon/pag_seguro.png" /></li>
+                                        </ul>
+                                    </center>
+
+                                </div>
+                                <br />
+                                <div class="form-group col-lg-12">
+                                    <center>
+                                        <div id="preloder3">
+                                            <div class="loader3"></div>
+                                        </div>
+                                        <!--button type="submit" class="btn btn-primary update_btn">update cart</!--button-->
+                                        <button type="submit" onclick="$('.loader3').show()" name="cart:Checkout" class="btn form-control checkout_btn" style="background-color:#007bff;border: black;margin-left:-0.5em">Finalizar</button>
+                                    </center>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--================End Shopping Cart Area =================-->
+        <!--================Footer Area =================-->
+        <footer class="footer_area">
+            <div class="container">
+                <div class="footer_widgets">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-6">
+                            <aside class="f_widget f_about_widget">
+                                <img src="../../img/logo_kit_festa.png" onclick="location.href = MontaCaminhoCompletoCart('Home/Index')" alt="">
+                                <p>Box para decoração de festas</p>
+                                <h6>Social:</h6>
+                                <ul>
+                                    <li><a href="#"><i class="social_facebook"></i></a></li>
+                                    <li><a href="#"><i class="social_twitter"></i></a></li>
+                                    <li><a href="#"><i class="social_pinterest"></i></a></li>
+                                    <li><a href="#"><i class="social_instagram"></i></a></li>
+                                    <li><a href="#"><i class="social_youtube"></i></a></li>
+                                </ul>
+                            </aside>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-6">
+                            <aside class="f_widget link_widget f_info_widget">
+                                <div class="f_w_title">
+                                    <h3>Informações</h3>
+                                </div>
+                                <ul>
+                                    <li><a href="#" onclick="location.href = MontaCaminhoCompletoCart('Home/Us')">Sobre nós</a></li>
+                                    <!--li><a href="#">Informação de Entrega</a></!--li>
+                                    <li><a href="#">Termos & Condidições</a></li>
+                                    <li><a href="#">Ajuda</a></li>
+                                    <li><a href="#">Devoluções</a></li-->
+                                </ul>
+                            </aside>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-6">
+                            <aside class="f_widget link_widget f_service_widget">
+                                <div class="f_w_title">
+                                    <h3>Área do Cliente</h3>
+                                </div>
+                                <ul>
+                                    <li><a href="#" onclick="location.href = MontaCaminhoCompletoCart('Home/Login')">Minha conta</a></li>
+                                    <!--li><a href="#">Notícias</a></!--li-->
+                                    <li><a href="#" onclick="location.href = MontaCaminhoCompletoCart('Home/Contact')">Contato</a></li>
+                                </ul>
+                            </aside>
+                        </div>
+
+                        <div class="col-lg-2 col-md-4 col-6">
+                            <aside class="f_widget link_widget f_account_widget">
+                                <div class="f_w_title">
+                                    <h3>Minha Conta</h3>
+                                </div>
+                                <ul>
+                                    <li><a href="#" onclick="location.href = MontaCaminhoCompletoCart('Home/Login')">Minha conta</a></li>
+                                    <li><a href="#" onclick="location.href = MontaCaminhoCompletoCart('Home/Compras')">Compras efetuadas</a></li>
+                                    <!--li><a href="#">Meus favoritos</a></!--li-->
+                                </ul>
+                            </aside>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer_copyright">
+                    <h5>
+                        ©
+                        <script>document.write(new Date().getFullYear());</script> <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                        Copyright &copy;
+                        <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    </h5>
+                </div>
+            </div>
+        </footer>
+    }
+</body>
+</html>

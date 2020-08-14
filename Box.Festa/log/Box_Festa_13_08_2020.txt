@@ -1,0 +1,667 @@
+2020-08-13 07:14:51,299 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 08:03:56,064 [67] DEBUG Box.Festa.Controllers.HomeController+<Sedex>d__15 – ------------------------------ CEP - NOK Cep não encontrado.
+2020-08-13 08:04:25,663 [63] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 08:04:25,664 [63] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 08:04:29,645 [62] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 08:04:29,660 [62] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 08:04:31,206 [67] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 08:04:31,925 [62] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 08:04:33,587 [62] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 08:04:33,588 [62] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 08:04:33,828 [62] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2020-08-13 08:52:44,815 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 08:54:29,307 [7] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 08:54:29,309 [7] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 08:54:33,645 [7] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 08:54:33,807 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 08:54:35,312 [10] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 08:54:35,864 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 08:59:23,541 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 09:00:58,478 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 09:00:58,480 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 09:01:02,148 [5] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 09:01:02,162 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 09:01:03,633 [10] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 09:01:04,066 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 09:01:05,027 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 09:01:05,027 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 09:01:22,149 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2020-08-13 09:05:46,159 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 09:06:03,076 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 09:06:03,078 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 09:06:08,152 [5] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 09:06:08,232 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 09:06:10,248 [8] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 09:06:10,616 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 09:06:39,541 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 09:06:40,681 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 09:06:40,681 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 09:06:45,945 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2020-08-13 09:12:59,137 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 09:14:12,032 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 09:14:12,034 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 09:14:17,098 [6] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 09:14:17,114 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 09:14:18,636 [8] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 09:14:19,018 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 09:14:20,056 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 09:14:20,056 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 09:14:33,956 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2020-08-13 09:19:28,786 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 09:29:40,345 [10] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 09:29:40,346 [10] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 09:29:44,712 [13] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 09:29:44,755 [13] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 09:29:47,176 [15] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 09:29:47,750 [13] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 09:31:08,682 [10] DEBUG Box.Festa.Controllers.HomeController+<Sedex>d__15 – ------------------------------ CEP - NOK Cep não encontrado.
+2020-08-13 09:31:13,628 [19] DEBUG Box.Festa.Controllers.HomeController+<Sedex>d__15 – ------------------------------ CEP - NOK Cep não encontrado.
+2020-08-13 09:31:41,650 [13] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 09:31:42,671 [13] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 09:31:42,672 [13] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 09:31:56,109 [13] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2020-08-13 09:35:40,148 [18] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 09:38:11,056 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 09:40:55,677 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 09:40:58,816 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 09:41:04,907 [20] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 09:42:08,585 [21] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 09:43:42,768 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 10:04:17,148 [18] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 10:04:17,149 [18] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 10:04:22,607 [18] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 10:04:22,618 [18] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 10:04:24,166 [18] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 10:04:24,520 [22] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 10:04:25,531 [22] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 10:04:25,531 [22] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 10:04:26,434 [22] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2020-08-13 10:10:19,609 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 10:16:44,139 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 10:22:57,508 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 10:31:24,933 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 10:48:13,913 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 10:49:20,039 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 10:52:53,398 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 10:58:01,388 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 11:00:24,616 [8] DEBUG Box.Festa.Controllers.HomeController+<Sedex>d__15 – ------------------------------ CEP - NOK System.NullReferenceException: Object reference not set to an instance of an object.
+   at Box.Festa.Controllers.HomeController.<Sedex>d__15.MoveNext() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 628
+2020-08-13 11:03:42,276 [11] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 11:03:42,280 [11] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 11:03:48,374 [6] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 11:03:48,394 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 11:03:50,262 [17] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 11:03:56,772 [17] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 11:03:57,775 [17] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 11:03:57,775 [17] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 11:03:58,311 [17] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2020-08-13 11:08:02,488 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 11:08:03,782 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 11:08:03,782 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 11:08:03,890 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2020-08-13 11:53:47,716 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 12:03:32,488 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 12:06:05,610 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 13:21:34,262 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 13:28:17,518 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 13:29:15,248 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 13:29:15,253 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 13:29:19,165 [5] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 13:29:19,179 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 13:29:20,697 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 13:29:26,655 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 13:29:27,949 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 13:29:27,949 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 13:29:28,651 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - NOK Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> Microsoft.Data.SqlClient.SqlException: Cannot insert explicit value for identity column in table 'Produto' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlConnection.cs:line 2117
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlInternalConnection.cs:line 814
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 1572
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 2792
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 1321
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 282
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5653
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5415
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5001
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 4853
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2461
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2364
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at Box.Festa.Negocio.PedidoBO.GravarPedido(Pedido pedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\PedidoBO.cs:line 64
+   at Box.Festa.Controllers.HomeController.CriarPedido(String cpf, Int64 idPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 1114
+   at Box.Festa.Controllers.HomeController.PagSeguro() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 907
+2020-08-13 13:30:53,331 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 13:30:54,067 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 13:30:54,067 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 13:30:54,263 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - NOK Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> Microsoft.Data.SqlClient.SqlException: Cannot insert explicit value for identity column in table 'Produto' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlConnection.cs:line 2117
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlInternalConnection.cs:line 814
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 1572
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 2792
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 1321
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 282
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5653
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5415
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5001
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 4853
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2461
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2364
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at Box.Festa.Negocio.PedidoBO.GravarPedido(Pedido pedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\PedidoBO.cs:line 64
+   at Box.Festa.Controllers.HomeController.CriarPedido(String cpf, Int64 idPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 1114
+   at Box.Festa.Controllers.HomeController.PagSeguro() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 907
+2020-08-13 13:31:03,622 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 13:31:04,424 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 13:31:04,425 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 13:31:04,706 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - NOK Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> Microsoft.Data.SqlClient.SqlException: Cannot insert explicit value for identity column in table 'Produto' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlConnection.cs:line 2117
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlInternalConnection.cs:line 814
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 1572
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 2792
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 1321
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 282
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5653
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5415
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5001
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 4853
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2461
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2364
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at Box.Festa.Negocio.PedidoBO.GravarPedido(Pedido pedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\PedidoBO.cs:line 64
+   at Box.Festa.Controllers.HomeController.CriarPedido(String cpf, Int64 idPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 1114
+   at Box.Festa.Controllers.HomeController.PagSeguro() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 907
+2020-08-13 13:32:01,491 [17] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 13:32:02,526 [17] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 13:32:02,527 [17] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 14:26:51,620 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 14:49:24,836 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 14:57:03,873 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 15:00:03,094 [8] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 15:00:03,095 [8] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 15:00:07,602 [5] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 15:00:07,621 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 15:00:09,257 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 15:00:16,412 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 15:00:17,523 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 15:00:17,523 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 15:00:29,754 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - NOK Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> Microsoft.Data.SqlClient.SqlException: Cannot insert explicit value for identity column in table 'Produto' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlConnection.cs:line 2117
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlInternalConnection.cs:line 814
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 1572
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 2792
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 1321
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 282
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5653
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5415
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5001
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 4853
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2461
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2364
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at Box.Festa.Negocio.PedidoBO.GravarPedido(Pedido pedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\PedidoBO.cs:line 64
+   at Box.Festa.Controllers.HomeController.CriarPedido(String cpf, Int64 idPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 1144
+   at Box.Festa.Controllers.HomeController.PagSeguro() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 921
+2020-08-13 15:15:37,887 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 15:15:39,003 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 15:15:39,003 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 15:20:10,114 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 15:21:45,939 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 15:23:52,368 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 15:23:52,370 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 15:23:58,396 [6] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 15:23:58,412 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 15:24:00,000 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 15:24:00,501 [14] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 15:24:02,070 [14] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 15:24:02,070 [14] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 15:25:00,164 [14] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - NOK Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> Microsoft.Data.SqlClient.SqlException: Cannot insert explicit value for identity column in table 'Produto' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlConnection.cs:line 2117
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlInternalConnection.cs:line 814
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 1572
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 2792
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 1321
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 282
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5653
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5415
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5001
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 4853
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2461
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2364
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at Box.Festa.Negocio.PedidoBO.GravarPedido(Pedido pedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\PedidoBO.cs:line 67
+   at Box.Festa.Controllers.HomeController.CriarPedido(String cpf, Int64 idPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 1144
+   at Box.Festa.Controllers.HomeController.PagSeguro() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 921
+2020-08-13 15:25:04,159 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 15:25:05,190 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 15:25:05,190 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 15:29:09,865 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 15:30:21,007 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 15:30:21,008 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 15:30:24,860 [6] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 15:30:24,870 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 15:30:26,426 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 15:30:26,819 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 15:30:28,276 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 15:30:28,276 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 15:32:51,068 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - NOK Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> Microsoft.Data.SqlClient.SqlException: Cannot insert explicit value for identity column in table 'Produto' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlConnection.cs:line 2117
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlInternalConnection.cs:line 814
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 1572
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 2792
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 1321
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 282
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5653
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5415
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5001
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 4853
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2461
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2364
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at Box.Festa.Negocio.PedidoBO.GravarPedido(Pedido pedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\PedidoBO.cs:line 67
+   at Box.Festa.Controllers.HomeController.CriarPedido(String cpf, Int64 idPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 1144
+   at Box.Festa.Controllers.HomeController.PagSeguro() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 921
+2020-08-13 15:36:22,948 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 15:37:59,549 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 15:37:59,557 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 15:38:05,730 [5] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 15:38:05,746 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 15:38:07,648 [13] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 15:38:08,377 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 15:38:09,476 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 15:38:09,476 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 15:40:30,969 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 15:41:50,033 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 15:42:59,627 [7] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 15:42:59,628 [7] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 15:43:05,196 [7] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 15:43:05,213 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 15:43:06,785 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 15:43:07,200 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 15:43:08,138 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 15:43:08,138 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 15:48:54,303 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 15:51:24,782 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 15:53:06,221 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 15:54:09,199 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 15:54:09,201 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 15:54:13,263 [5] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 15:54:13,277 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 15:54:14,796 [10] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 15:54:21,174 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 15:54:22,665 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 15:54:22,665 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 15:55:05,096 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - NOK Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> Microsoft.Data.SqlClient.SqlException: Cannot insert explicit value for identity column in table 'Produto' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlConnection.cs:line 2117
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlInternalConnection.cs:line 814
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 1572
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 2792
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 1321
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 282
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5653
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5415
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5001
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 4853
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2461
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2364
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at Box.Festa.Negocio.PedidoBO.GravarPedido(Pedido pedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\PedidoBO.cs:line 67
+   at Box.Festa.Controllers.HomeController.CriarPedido(String cpf, Int64 idPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 1144
+   at Box.Festa.Controllers.HomeController.PagSeguro() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 921
+2020-08-13 15:55:10,295 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 15:55:11,074 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 15:55:11,074 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 15:58:25,353 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 15:59:22,998 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 15:59:23,000 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 15:59:27,521 [6] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 15:59:27,531 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 15:59:29,103 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 15:59:29,498 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 15:59:30,496 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 15:59:30,496 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 15:59:41,488 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - NOK Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> Microsoft.Data.SqlClient.SqlException: Cannot insert explicit value for identity column in table 'Produto' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlConnection.cs:line 2117
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlInternalConnection.cs:line 814
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 1572
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 2792
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 1321
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 282
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5653
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5415
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5001
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 4853
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2461
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2364
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at Box.Festa.Negocio.PedidoBO.GravarPedido(Pedido pedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\PedidoBO.cs:line 67
+   at Box.Festa.Controllers.HomeController.CriarPedido(String cpf, Int64 idPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 1144
+   at Box.Festa.Controllers.HomeController.PagSeguro() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 921
+2020-08-13 16:05:14,045 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 16:11:17,562 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 16:12:15,728 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 16:12:15,729 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 16:12:19,585 [5] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 16:12:19,594 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 16:12:21,189 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 16:12:21,725 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 16:12:22,929 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 16:12:22,929 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 16:14:05,860 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 16:15:00,144 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 16:15:00,146 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 16:15:03,990 [6] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 16:15:04,007 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 16:15:05,424 [8] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 16:15:05,846 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 16:15:06,944 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 16:15:06,945 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 16:16:59,395 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 16:18:11,774 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 16:18:11,775 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 16:18:15,334 [5] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 16:18:15,345 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 16:18:16,988 [8] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 16:18:17,462 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 16:18:18,608 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 16:18:18,608 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 16:20:25,567 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 16:22:35,630 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 16:23:40,088 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 16:25:07,356 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 16:25:07,357 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 16:25:11,426 [5] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 16:25:11,439 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 16:25:13,027 [15] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 16:25:19,577 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 16:25:20,641 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 16:25:20,641 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 16:25:27,819 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2020-08-13 16:27:28,389 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 16:27:29,435 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 16:27:29,435 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 16:27:51,648 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - NOK Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> Microsoft.Data.SqlClient.SqlException: Cannot insert explicit value for identity column in table 'Sacola' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlConnection.cs:line 2117
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlInternalConnection.cs:line 814
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 1572
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 2792
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 1321
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 282
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5653
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5415
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5001
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 4853
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2461
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2364
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at Box.Festa.Negocio.PedidoBO.GravarPedido(Pedido pedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\PedidoBO.cs:line 67
+   at Box.Festa.Controllers.HomeController.CriarPedido(String cpf, Int64 idPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 1144
+   at Box.Festa.Controllers.HomeController.PagSeguro() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 921
+2020-08-13 16:28:04,823 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 16:28:05,590 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 16:28:05,590 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 16:28:36,723 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - NOK Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> Microsoft.Data.SqlClient.SqlException: Cannot insert explicit value for identity column in table 'Sacola' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlConnection.cs:line 2117
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlInternalConnection.cs:line 814
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 1572
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\TdsParser.cs:line 2792
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 1321
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData() in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlDataReader.cs:line 282
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5653
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5415
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 5001
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 4853
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2461
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in H:\tsaagent4\_work\2\s\src\Microsoft.Data.SqlClient\netfx\src\Microsoft\Data\SqlClient\SqlCommand.cs:line 2364
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at Box.Festa.Negocio.PedidoBO.GravarPedido(Pedido pedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\PedidoBO.cs:line 67
+   at Box.Festa.Controllers.HomeController.CriarPedido(String cpf, Int64 idPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 1144
+   at Box.Festa.Controllers.HomeController.PagSeguro() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 921
+2020-08-13 16:28:40,354 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 16:28:41,205 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 16:28:41,206 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 16:32:05,108 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 16:33:06,092 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 16:33:06,102 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 16:33:10,058 [8] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 16:33:10,068 [8] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 16:33:15,225 [10] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 16:33:15,720 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 16:33:16,603 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 16:33:16,604 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 16:33:22,772 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2020-08-13 16:37:54,306 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 16:42:39,897 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 16:49:12,397 [14] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 16:49:12,398 [14] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 16:49:16,599 [15] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 16:49:16,617 [15] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 16:49:18,138 [20] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 16:49:18,567 [14] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 16:49:20,062 [14] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 16:49:20,062 [14] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 16:49:26,724 [14] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2020-08-13 16:55:57,667 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 17:05:02,792 [20] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 17:05:02,793 [20] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 17:05:07,566 [23] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 17:05:07,582 [23] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 17:05:09,169 [23] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 17:05:09,640 [20] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 17:05:10,660 [20] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 17:05:10,660 [20] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 17:05:19,890 [20] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2020-08-13 17:11:18,915 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 17:29:38,096 [12] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 17:29:38,097 [12] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 17:29:42,747 [12] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 17:29:42,771 [12] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 17:29:44,325 [21] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 17:29:44,766 [19] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 17:29:46,472 [19] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 17:29:46,473 [19] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 17:30:08,212 [19] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2020-08-13 17:40:31,888 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 17:41:51,231 [7] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 17:41:51,232 [7] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 17:41:55,154 [5] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 17:41:55,164 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 17:41:56,694 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 17:41:57,101 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 17:41:58,186 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 17:41:58,187 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 17:41:58,936 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2020-08-13 19:44:32,799 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 20:03:34,618 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 20:13:48,999 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 20:35:12,222 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 20:45:06,524 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 20:48:47,178 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2020-08-13 20:48:47,178 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2020-08-13 20:48:50,048 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2020-08-13 20:48:50,066 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2020-08-13 20:48:59,165 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2020-08-13 20:48:59,196 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2020-08-13 20:49:08,012 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Exception Gravar ListaSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at Box.Festa.Negocio.PedidoBO.IncluirPedidoUsuario(Usuario usuarioAdicionado) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\PedidoBO.cs:line 243
+   at Box.Festa.Negocio.PedidoBO.GravarStatusListaPedidoMesmoDia(List`1 listaPedido) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Negocio\PedidoBO.cs:line 226
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 355
+2020-08-13 20:49:08,051 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Erro1:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Box.Festa.Areas.Admin.Controllers.AdminController.SalvarStatusAlterado(List`1 listaPedido, List`1 listaPedidosAlterados) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 359
+   at Box.Festa.Areas.Admin.Controllers.AdminController.AtualizarStatus(PesquisaAdmin pesquisa) in C:\Box_Festa_Site\Box.Festa\Box.Festa\Areas\Admin\Controllers\AdminController.cs:line 150
+2020-08-13 20:49:08,999 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar2
+2020-08-13 20:49:08,999 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2020-08-13 20:49:08,999 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2020-08-13 20:49:10,128 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar3
+2020-08-13 20:49:10,128 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2020-08-13 20:49:10,131 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2020-08-13 20:49:10,981 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar4
+2020-08-13 20:49:10,981 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2020-08-13 20:49:10,981 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2020-08-13 20:49:12,121 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar5
+2020-08-13 20:49:12,121 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2020-08-13 20:49:12,121 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2020-08-13 20:49:12,906 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar6
+2020-08-13 20:49:12,906 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2020-08-13 20:49:12,906 [13] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2020-08-13 21:20:55,640 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 21:22:59,321 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 21:24:53,669 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 21:26:41,486 [7] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-08-13 21:26:41,489 [7] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-08-13 21:26:45,459 [5] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 21:26:45,472 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 21:26:47,050 [13] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 21:27:11,542 [8] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2020-08-13 21:27:11,550 [8] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2020-08-13 21:27:12,571 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2020-08-13 21:27:12,636 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2020-08-13 21:27:13,753 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2020-08-13 21:27:13,753 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2020-08-13 21:27:14,087 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2020-08-13 21:30:30,286 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2020-08-13 21:30:30,287 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2020-08-13 21:30:33,087 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2020-08-13 21:30:33,092 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2020-08-13 21:30:34,262 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2020-08-13 21:30:34,269 [5] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2020-08-13 21:36:31,294 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-08-13 21:37:32,414 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Atualizar Status
+2020-08-13 21:37:32,415 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------ListarPedido
+2020-08-13 21:37:40,100 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar1
+2020-08-13 21:37:40,103 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2020-08-13 21:37:42,131 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------task Start
+2020-08-13 21:37:42,206 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2020-08-13 21:37:47,958 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar2
+2020-08-13 21:37:47,958 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2020-08-13 21:37:47,958 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2020-08-13 21:37:47,967 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar3
+2020-08-13 21:37:47,967 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2020-08-13 21:37:47,967 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2020-08-13 21:37:47,969 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar4
+2020-08-13 21:37:47,969 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2020-08-13 21:37:47,969 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2020-08-13 21:37:47,970 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar5
+2020-08-13 21:37:47,970 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2020-08-13 21:37:47,970 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista
+2020-08-13 21:37:47,975 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------Salvar6
+2020-08-13 21:37:47,975 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado
+2020-08-13 21:37:47,975 [6] DEBUG Box.Festa.Areas.Admin.Controllers.AdminController – -------------------------------SalvarStatusAlterado Gravar Lista

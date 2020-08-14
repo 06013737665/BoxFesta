@@ -1,0 +1,128 @@
+2019-07-29 08:50:10,209 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 08:55:47,434 [9] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:03:55,646 [19] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:05:25,010 [19] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:12:33,413 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:12:36,582 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:13:42,009 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:13:56,549 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:14:16,334 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:14:44,582 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:15:46,348 [9] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:15:50,014 [9] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:16:44,973 [9] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:17:27,983 [10] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:17:59,313 [9] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:19:08,498 [11] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:20:34,033 [13] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:21:09,848 [13] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:21:52,622 [13] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:23:41,066 [56] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:24:06,220 [31] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:26:14,226 [31] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:26:34,481 [31] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:29:13,583 [31] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:30:12,718 [42] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:34:28,885 [42] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:34:58,588 [42] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:35:01,804 [45] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:41:09,057 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:47:29,209 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:51:26,746 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:56:20,326 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:58:13,982 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 09:59:01,852 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:00:17,653 [9] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:00:56,871 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:03:45,170 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:04:57,234 [13] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:06:00,117 [35] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:06:32,482 [30] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:07:08,959 [30] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:07:46,801 [30] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:08:11,310 [30] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:08:19,170 [30] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:11:40,344 [44] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:12:40,057 [44] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:14:08,920 [44] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:16:02,467 [51] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:17:14,082 [57] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:17:34,867 [57] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:18:15,582 [57] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:18:56,816 [57] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:19:57,014 [57] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:21:11,380 [57] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:21:46,748 [68] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:22:18,313 [76] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:23:04,400 [75] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:23:21,164 [90] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:24:51,487 [75] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:25:23,959 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 10:37:39,697 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 11:49:22,698 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 12:20:56,230 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 12:24:17,585 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 12:26:11,342 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 12:32:41,573 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 12:35:10,331 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 12:36:45,262 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 12:37:49,726 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-07-29 12:37:49,726 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2019-07-29 12:37:55,559 [14] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2019-07-29 12:37:55,562 [14] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2019-07-29 12:37:56,804 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2019-07-29 12:37:57,362 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2019-07-29 12:38:03,959 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-29 12:38:03,959 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2019-07-29 12:38:04,022 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-29 12:48:25,892 [9] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 13:00:41,810 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 13:05:13,098 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 13:09:48,280 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 13:10:27,572 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 13:11:54,498 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 13:12:43,277 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 13:13:01,591 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 13:14:05,428 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-07-29 13:14:05,428 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2019-07-29 13:14:08,949 [5] DEBUG Box.Festa.Controllers.AuthCallbackController – -------------------------------Contrutor AUthCalback
+2019-07-29 13:14:08,953 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------IdenxAsync
+2019-07-29 13:14:10,324 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 – -------------------------------Plus service
+2019-07-29 13:14:10,845 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro
+2019-07-29 13:14:11,307 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-29 13:14:11,307 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Criar Pedido
+2019-07-29 13:14:11,345 [7] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-29 13:27:59,697 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 13:37:47,029 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 13:39:54,123 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 13:44:15,083 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 13:44:44,138 [9] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 13:46:46,999 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 13:47:13,032 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 13:47:26,541 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 13:48:15,819 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:08:45,992 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:10:09,787 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:10:42,517 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:12:16,027 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:13:10,760 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:13:41,167 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:14:09,158 [8] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:14:48,340 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:15:01,453 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:15:27,695 [6] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:15:44,207 [12] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:15:58,671 [11] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:16:13,469 [14] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:17:19,237 [14] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:17:37,344 [12] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:18:30,854 [14] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:18:46,159 [12] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:19:06,469 [12] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:19:25,054 [12] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:19:57,018 [14] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:20:15,271 [12] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:22:26,786 [17] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:24:17,151 [35] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:25:01,447 [37] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2019-07-29 14:25:30,044 [37] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa

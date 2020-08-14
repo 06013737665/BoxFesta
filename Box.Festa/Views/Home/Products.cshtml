@@ -1,0 +1,639 @@
+﻿@model Box.Festa.Models.Sacola
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=2">
+
+    <link rel="icon" href="../../img/fav-icon.png" type="image/x-icon" />
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Box Festa</title>
+    <!-- Icon css link -->
+    <link href="../../css/font-awesome.min.css" rel="stylesheet">
+    <link href="../../vendors/line-icon/css/simple-line-icons.css" rel="stylesheet">
+    <link href="../../vendors/elegant-icon/style.css" rel="stylesheet">
+    <!-- Bootstrap -->
+    <link href="../../css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Rev slider css -->
+    <link href="../../vendors/revolution/css/settings.css" rel="stylesheet">
+    <link href="../../vendors/revolution/css/layers.css" rel="stylesheet">
+    <link href="../../vendors/revolution/css/navigation.css" rel="stylesheet">
+
+    <!-- Extra plugin css -->
+    <link href="../../vendors/owl-carousel/owl.carousel.min.css" rel="stylesheet">
+    <link href="../../vendors/bootstrap-selector/css/bootstrap-select.min.css" rel="stylesheet">
+
+    <link href="../../css/style.css" rel="stylesheet">
+    <link href="../../css/responsive.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken();
+        @Html.ValidationSummary(true);
+
+
+        @Html.Hidden("QtdeSelecionado", (int)ViewBag.QtdeProdutoSelecionado);
+        @Html.Hidden("ValorSelecionado", (double)ViewBag.ValorProdutoSelecionado);
+        @Html.Hidden("Secao", (string)ViewBag.Secao);
+        @Html.Hidden("HiddenCurrentUrl", String.Format("{0}/", Request.ApplicationPath))
+        for (int a = 0; a < Model.ProdutoSelecionado.Length; a++)
+        {
+            @Html.HiddenFor(model => Model.ProdutoSelecionado[a]);
+        }
+        <div id="preloder">
+            <div class="loader"></div>
+        </div>
+        <!--================Top Header Area =================-->
+        <div class="header_top_area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3">
+                        <div class="top_header_left">
+                            <div class="selector">
+                                <select class="language_drop" name="countries" id="countries" style="width:300px;">
+                                    <option value='yt' data-image="/img/icon/flag-brasil.png" data-imagecss="flag yt" data-title="Brasil">Português</option>
+
+                                </select>
+                            </div>
+                            <select class="selectpicker usd_select">
+                                <option>BRL</option>
+                            </select>
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Pesquisar" aria-label="Search">
+                                <span class="input-group-btn">
+                                    <button class="btn btn-secondary" type="button"><i class="icon-magnifier"></i></button>
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="top_header_middle">
+                            <a href="#"><i class="fa fa-phone"></i> Call Us: <span>+55 31 99999-8888</span></a>
+                            <a href="#"><i class="fa fa-envelope"></i> Email: <span>suporteboxfestas@gmail.com</span></a>
+                            <img onclick="location.href = MontaCaminhoCompletoCart('Home/Index')" src="~/img/logo_kit_festa.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <ul class="top_right">
+                            <li class="user"><a href="#" onclick="location.href = MontaCaminhoCompletoCart('Home/Login')"><i class="icon-user icons"></i></a></li>
+                            <li class="cart"><a href="#" onclick="location.href = MontaCaminhoCompletoCart('Home/Cart')" id="carrinho"><i class="icon-handbag icons"></i><span class="carrinho"></span></a></li>
+                            <li class="user">
+                                <a href="#">
+                                    <i class="icons"></i>
+                                    <span id="price" style="font-size:medium">$0.00</span>
+                                </a>
+                            </li>
+                        </ul>
+                        <ul class="top_right">
+                            @if (Model.Usuario != null && !string.IsNullOrEmpty(Model.Usuario.Nome))
+                            {
+                                <li class="user"><label style="color:black;font-size:14px">Bem vindo, &nbsp;</label><label style="color:darkblue;font-weight:400;font-size:16px"> @Model.Usuario.PrimeiroNome </label></li>
+                            }
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!--================End Top Header Area =================-->
+        <!--================Menu Area =================-->
+        <header class="shop_header_area">
+            <div class="container">
+                <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                    <a class="navbar-brand" href="#"><img onclick="window.location.href = MontaCaminhoCompleto('Home/Index')" src="/img/logo_kit_festa.png" alt=""></a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+                        <ul class="navbar-nav">
+                            <li class="nav-item"><a class="nav-link" onclick="location.href = MontaCaminhoCompletoCart('Home/Home')">Home</a></li>
+                            <li class="nav-item"><a class="nav-link" onclick="location.href = MontaCaminhoCompletoCart('Home/Products')">Produtos</a></li>
+                            <li class="nav-item"><a class="nav-link" onclick="location.href = MontaCaminhoCompletoCart('Home/Cart')">Carrinho de Compras</a></li>
+                            <li class="nav-item"><a class="nav-link" onclick="location.href = MontaCaminhoCompletoCart('Home/Login')">Login</a></li>
+                            <li class="nav-item"><a class="nav-link" onclick="location.href = MontaCaminhoCompletoCart('Home/Contact')">Contato</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </header>
+        <!--================End Menu Area =================-->
+        <!--================Slider Area =================-->
+
+        <!--================End Slider Area =================-->
+        <!--================Feature Add Area =================-->
+        <!--section class="feature_add_area">
+            <div class="container">
+                <div class="row feature_inner">
+                    <div class="col-lg-5">
+                        <div class="f_add_item">
+                            <div class="f_add_img"><img class="img-fluid" src="../../img/feature-add/f-add-1.jpg" alt=""></div>
+                            <div class="f_add_hover">
+                                <h4>Best Summer <br />Collection</h4>
+                                <a class="add_btn" href="#">Shop Now <i class="arrow_right"></i></a>
+                            </div>
+                            <div class="sale">Sale</div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="f_add_item right_dir">
+                            <div class="f_add_img"><img class="img-fluid" src="../../img/feature-add/f-add-2.jpg" alt=""></div>
+                            <div class="f_add_hover">
+                                <h4>Best Summer <br />Collection</h4>
+                                <a class="add_btn" href="#">Shop Now <i class="arrow_right"></i></a>
+                            </div>
+                            <div class="off">10% off</div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="f_add_item">
+                            <div class="f_add_img"><img class="img-fluid" src="img/feature-add/f-add-3.jpg" alt=""></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </!--section-->
+        <!--================End Feature Add Area =================-->
+        <section class="from_blog_area">
+            <div class="container">
+                <div class="from_blog_inner">
+                    <div class="c_main_title">
+                        <h2>Temas</h2>
+                    </div>
+                    <div class="l_product_slider_kit owl-carousel">
+
+                        @foreach (Box.Festa.Models.Produto kit in ViewBag.ListaKit)
+                        {
+                            <div class="item">
+                                <div class="portfolio-item" >
+                                    <div class="thumb">
+                                        <div class="from_blog_item">
+                                            <div class="portfolio-slider-alt">
+
+                                                <ul class="slides">
+                                                    <li>
+                                                        <a href="@kit.ImagemKit" title="@kit.Descricao">
+                                                            <img class="img-fluid" src="@kit.ImagemKit" alt="">
+                                                            <div class="f_blog_text">
+                                                                <h5>@kit.Descricao</h5>
+
+                                                            </div>
+
+                                                        </a>
+
+                                                    </li>
+                                                    <li>
+                                                        <a href="@kit.ImagemKit" title="@kit.Descricao">
+                                                            <img class="img-fluid" onclick="detalheProduto(@kit.Codigo)" src="@kit.ImagemKit" alt="">
+                                                            <div class="f_blog_text">
+                                                                <h5>@kit.Descricao</h5>
+
+                                                            </div>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="@kit.ImagemKit" title="@kit.Descricao">
+                                                            <img class="img-fluid" onclick="detalheProduto(@kit.Codigo)" src="@kit.ImagemKit" alt="">
+                                                            <div class="f_blog_text">
+                                                                <h5>@kit.Descricao</h5>
+
+                                                            </div>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+
+
+                                                <div class="f_blog_text">
+                                                    <a style="background-color:transparent;color:white; border:none;display:none;margin-left:1.7em;margin-bottom:-40px;font-size:42px;" onclick="detalheProduto(@kit.Codigo)" class="add_cart_btn botao_slide lupa_kit" href="#"><i class="icon-magnifier"></i> </a>
+
+                                                    <h5 style="background-color:black;color:white;margin-top:5em">@kit.Descricao</h5>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </section>
+        <br />
+        <br />
+        <br />
+        <section id="secao2" class="our_latest_product ">
+            <div class="container">
+                <div class="c_main_title">
+                    <h2>Produtos Mais Vendidos no Mês</h2>
+                </div>
+
+                <div class="l_product_slider owl-carousel" id="maisvendido">
+
+                    @foreach (Box.Festa.Models.Produto produto in ViewBag.ListaProdutoMaisVendido)
+                    {
+                        <div class="item">
+
+                            <div class="l_product_item">
+                                <div class="l_p_img">
+                                    <img onclick="detalheProduto(@produto.Codigo)" src="@produto.Imagem" alt="">
+                                </div>
+                                <div class="l_p_text">
+                                    <ul>
+                                        <li><a onclick="selecionarCarrinho(@produto.Id,@produto.Codigo, @produto.Valor)" class="add_cart_btn" href="#maisvendido"><i class="fa fa-shopping-cart"></i> Comprar</a></li>
+                                    </ul>
+                                    <h4>@produto.Descricao</h4>
+                                    <h5>
+                                        @if (@produto.ehSale)
+                                        {
+                                        }@string.Format("{0:C}", produto.Valor)
+                                    </h5>
+                                </div>
+                            </div>
+
+                        </div>
+                    }
+                </div>
+            </div>
+        </section>
+        <br />
+        <br />
+        <br />
+        <section id="secao3" class="our_latest_product ">
+            <div class="container">
+                <div class="c_main_title">
+                    <h2>Produtos em Promoção</h2>
+                </div>
+
+                <div class="l_product_slider owl-carousel" id="promocao">
+
+                    @foreach (Box.Festa.Models.Produto produto in ViewBag.ListaProdutoMaisVendido)
+                    {
+                        <div class="item">
+
+                            <div class="l_product_item">
+                                <div class="l_p_img">
+                                    <img onclick="detalheProduto(@produto.Codigo)" src="@produto.Imagem" alt="">
+                                </div>
+                                <div class="l_p_text">
+                                    <ul>
+                                        <li><a onclick="selecionarCarrinho(@produto.Id,@produto.Codigo, @produto.Valor)" class="add_cart_btn" href="#promocao"><i class="fa fa-shopping-cart"></i> Comprar</a></li>
+                                    </ul>
+                                    <h4>@produto.Descricao</h4>
+                                    <h5>
+                                        @if (@produto.ehSale)
+                                        {
+                                        }@string.Format("{0:C}", produto.Valor)
+                                    </h5>
+                                </div>
+                            </div>
+
+                        </div>
+                    }
+                </div>
+            </div>
+        </section>
+        <br />
+        <br />
+        <br />
+        <!-- Quatro Colunas-->
+        <section id="secao4" class="no_sidebar_2column_area ">
+            <div class="c_main_title">
+                <h2>Produtos Avulsos</h2>
+            </div>
+            <div class="container">
+                <div class="showing_fillter">
+                    <div class="row m0">
+                        <div class="first_fillter">
+                            @{int total = ViewBag.TotalAvulso; int pagina = total < 12 ? total : 12; int metade = total / 2;
+                                <h4>Mostrando 1 de @pagina de @total</h4>
+                            }
+                        </div>
+                        <div class="secand_fillter">
+                            <h4>SORT BY :</h4>
+                            <select class="selectpicker">
+                                <option>Name</option>
+                                <option>Name 2</option>
+                                <option>Name 3</option>
+                            </select>
+                        </div>
+                        <div class="third_fillter">
+                            <h4>Show : </h4>
+                            <select class="selectpicker">
+                                <option>09</option>
+                                <option>10</option>
+                                <option>10</option>
+                            </select>
+                        </div>
+                        <div class="four_fillter">
+                            <h4>View</h4>
+                            <a class="active" href="#"><i class="icon_grid-2x2"></i></a>
+                            <a href="#"><i class="icon_grid-3x3"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="two_column_product">
+                    <div class="row">
+                        @{ int iterator = 0;
+                            foreach (Box.Festa.Models.Produto produto in ViewBag.ListaProduto)
+                            {
+                                <div class="col-lg-3 col-sm-6" id="avulso+@iterator">
+                                    <div class="l_product_item">
+                                        <div class="l_p_img">
+                                            <img onclick="detalheProduto(@produto.Codigo)" src="@produto.Imagem" alt="">
+                                            <!--h5 class="sale">Sale</!--h5-->
+                                        </div>
+                                        <div class="l_p_text">
+                                            <ul>
+                                                <li><a onclick="selecionarCarrinho(@produto.Id,@produto.Codigo, @produto.Valor)" class="add_cart_btn" href="#avulso+@iterator"><i class="fa fa-shopping-cart"></i> Comprar</a></li>
+                                            </ul>
+                                            <h4>@produto.Descricao</h4>
+                                            <h5><!--del>$45.50</!--del-->  @string.Format("{0:C}", produto.Valor)</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                iterator++;
+                            }
+                        }
+
+
+                    </div>
+                    <nav aria-label="Page navigation example" class="pagination_area">
+                        <ul class="pagination">
+                            <li class="page-item"><a class="page-link" href="#">1</a></li>
+                            <!--li class="page-item" ><a class="page-link" href="#">2</a></!--li>
+                            <li class="page-item"><a class="page-link" href="#">3</a></li>
+                            <li class="page-item"><a class="page-link" href="#">4</a></li>
+                            <li class="page-item"><a class="page-link" href="#">5</a></li>
+                            <li class="page-item"><a class="page-link" href="#">6</a></li-->
+                            <!--li class="page-item next"><a class="page-link disabled" href="#"><i class="fa fa-angle-right" aria-hidden="true"></i></a></!--li-->
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </section>
+        <!--================Our Latest Product Area =================-->
+        @*section class="our_latest_product">
+                <div class="container">
+                    <div class="s_m_title">
+                        <h2>Produtos Avulsos</h2>
+                    </div>
+                    @{int i = 0;
+                    }
+
+
+                    <div>
+                        <div class="row" style="max-height: 400px;overflow-y: scroll;">
+                            @{int j = 1; }
+                            @foreach (Box.Festa.Models.Produto produto in ViewBag.ListaProduto)
+                            {
+
+
+                                <div class="col-lg-3 col-sm-6">
+                                    <div class="l_product_item">
+                                        <div class="l_p_img">
+                                            <img onclick="detalheProduto(@produto.Codigo)" src="@produto.Imagem" alt="">
+                                        </div>
+                                        <div class="l_p_text">
+                                            <ul>
+                                                <li class="p_icon"><a href="#"><i class="icon_piechart"></i></a></li>
+                                                <li><a onclick="selecionarCarrinho(@produto.Id,@produto.Codigo, @produto.Valor)" class="add_cart_btn" href="#">Add To Cart</a></li>
+                                                <li class="p_icon"><a href="#"><i class="icon_heart_alt"></i></a></li>
+                                            </ul>
+                                            <h4>@produto.Descricao</h4>
+                                            <h5><!--del>$45.50</!--del-->  @string.Format("{0:C}", produto.Valor)</h5>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                j++;
+                            }
+                        </div>
+                    </div>
+
+
+
+                </div>
+            </!--section>*@
+        <!--================End Our Latest Product Area =================-->
+        <!--================Feature Big Add Area =================-->
+
+        <!--================End Feature Big Add Area =================-->
+        <!--================Product_listing Area =================-->
+
+        <!--================End Product_listing Area =================-->
+        <!--================Featured Product Area =================-->
+        <!--section class="feature_product_area">
+            <div class="container">
+                <div class="f_p_inner">
+                    <div class="row">
+
+                        <div class="col-lg-9">
+                            <div class="fillter_slider_inner">
+                                <ul class="portfolio_filter">
+                                    <li class="active" data-filter="*"><a href="#">Todos</a></li>
+                                    <li data-filter=".enfeite"><a href="#">Enfeites</a></li>
+                                    <li data-filter=".utensilios"><a href="#">Utensílios</a></li>
+
+                                </ul>
+                                <div class="fillter_slider owl-carousel">
+                                    <div class="item utensilios">
+                                        <div class="fillter_product_item bags">
+                                            <div class="f_p_img">
+                                                <img src="/img/product/fillter-product/Copo_Plastico_Elza.png" alt="">
+                                                <h5 class="sale">Sale</h5>
+                                            </div>
+                                            <div class="f_p_text">
+                                                <h5>Copo Frozen</h5>
+                                                <h4>$5.00</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item enfeite">
+                                        <div class="fillter_product_item">
+                                            <div class="f_p_img">
+                                                <img src="/img/product/fillter-product/Copo_Descartavel_galinha.png" alt="">
+                                                <h5 class="new">New</h5>
+                                            </div>
+                                            <div class="f_p_text">
+                                                <h5>Copo Descartável Galinha Pintadinha</h5>
+                                                <h4><del>$5.50</del> $5.00</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item enfeite">
+                                        <div class="fillter_product_item">
+                                            <div class="f_p_img">
+                                                <img src="/img/product/fillter-product/Copo_Batman.png" alt="">
+                                                <h5 class="discount">-10%</h5>
+                                            </div>
+                                            <div class="f_p_text">
+                                                <h5>Copo Batman</h5>
+                                                <h4>$5.00</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item utensilios">
+                                        <div class="fillter_product_item bags">
+                                            <div class="f_p_img">
+                                                <img src="/img/product/fillter-product/Balao.png" alt="">
+                                                <h5 class="sale">Sale</h5>
+                                            </div>
+                                            <div class="f_p_text">
+                                                <h5>Balões</h5>
+                                                <h4>$2.50</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item enfeite">
+                                        <div class="fillter_product_item">
+                                            <div class="f_p_img">
+                                                <img src="/img/product/fillter-product/Bala_Iogurte.png" alt="">
+                                                <h5 class="new">New</h5>
+                                            </div>
+                                            <div class="f_p_text">
+                                                <h5>Bala de Iogurte</h5>
+                                                <h4><del>$3.50</del> $3.00</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </!--section-->
+        <!--================End Featured Product Area =================-->
+        <!--================Form Blog Area =================-->
+
+        <!--================End Form Blog Area =================-->
+        <!--================Footer Area =================-->
+        <footer class="footer_area">
+            <div class="container">
+                <div class="footer_widgets">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-6">
+                            <aside class="f_widget f_about_widget">
+                                <img src="../../img/logo_kit_festa.png" onclick="location.href = MontaCaminhoCompletoCart('Home/Index')" alt="">
+                                <p>Box para decoração de festas</p>
+                                <h6>Social:</h6>
+                                <ul>
+                                    <li><a href="#"><i class="social_facebook"></i></a></li>
+                                    <li><a href="#"><i class="social_twitter"></i></a></li>
+                                    <li><a href="#"><i class="social_pinterest"></i></a></li>
+                                    <li><a href="#"><i class="social_instagram"></i></a></li>
+                                    <li><a href="#"><i class="social_youtube"></i></a></li>
+                                </ul>
+                            </aside>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-6">
+                            <aside class="f_widget link_widget f_info_widget">
+                                <div class="f_w_title">
+                                    <h3>Informações</h3>
+                                </div>
+                                <ul>
+                                    <li><a href="#" onclick="location.href = MontaCaminhoCompletoCart('Home/Us')">Sobre nós</a></li>
+                                    <!--li><a href="#">Informação de Entrega</a></!--li>
+                                    <li><a href="#">Termos & Condidições</a></li>
+                                    <li><a href="#">Ajuda</a></li>
+                                    <li><a href="#">Devoluções</a></li-->
+                                </ul>
+                            </aside>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-6">
+                            <aside class="f_widget link_widget f_service_widget">
+                                <div class="f_w_title">
+                                    <h3>Área do Cliente</h3>
+                                </div>
+                                <ul>
+                                    <li><a href="#" onclick="location.href = MontaCaminhoCompletoCart('Home/Login')">Minha conta</a></li>
+                                    <!--li><a href="#">Notícias</a></!--li-->
+                                    <li><a href="#" onclick="location.href = MontaCaminhoCompletoCart('Home/Contact')">Contato</a></li>
+                                </ul>
+                            </aside>
+                        </div>
+
+                        <div class="col-lg-2 col-md-4 col-6">
+                            <aside class="f_widget link_widget f_account_widget">
+                                <div class="f_w_title">
+                                    <h3>Minha Conta</h3>
+                                </div>
+                                <ul>
+                                    <li><a href="#" onclick="location.href = MontaCaminhoCompletoCart('Home/Login')">Minha conta</a></li>
+                                    <li><a href="#" onclick="location.href = MontaCaminhoCompletoCart('Home/Compras')">Compras efetuadas</a></li>
+                                    <!--li><a href="#">Meus favoritos</a></!--li-->
+                                </ul>
+                            </aside>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer_copyright">
+                    <h5>
+                        ©
+                        <script>document.write(new Date().getFullYear());</script> <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                        Copyright &copy;
+                        <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    </h5>
+                </div>
+            </div>
+        </footer>
+        <!--================End Footer Area =================-->
+    }
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="../../js/jquery-3.2.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../../js/popper.min.js"></script>
+    <script src="../../js/bootstrap.min.js"></script>
+    <!-- Rev slider js -->
+    <script src="../../vendors/revolution/js/jquery.themepunch.tools.min.js"></script>
+    <script src="../../vendors/revolution/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="../../vendors/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+    <script src="../../vendors/revolution/js/extensions/revolution.extension.video.min.js"></script>
+    <script src="../../vendors/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+    <script src="../../vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script src="../../vendors/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+    <script src="../../vendors/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+    <!-- Extra plugin css -->
+    <script src="../../vendors/counterup/jquery.waypoints.min.js"></script>
+    <script src="../../vendors/counterup/jquery.counterup.min.js"></script>
+    <script src="../../vendors/owl-carousel/owl.carousel.min.js"></script>
+    <script src="../../vendors/bootstrap-selector/js/bootstrap-select.min.js"></script>
+    <script src="../../vendors/image-dropdown/jquery.dd.min.js"></script>
+    <script src="../../js/smoothscroll.js"></script>
+    <script src="../../vendors/isotope/imagesloaded.pkgd.min.js"></script>
+    <script src="../../vendors/isotope/isotope.pkgd.min.js"></script>
+    <script src="../../vendors/magnify-popup/jquery.magnific-popup.min.js"></script>
+    <script src="../../vendors/vertical-slider/js/jQuery.verticalCarousel.js"></script>
+    <script src="../../vendors/jquery-ui/jquery-ui.js"></script>
+    <!-- Javscripts necessários para slide imagens-->
+
+    <script src="/vendors/flex-slider/jquery.flexslider-min.js"></script>
+    <script src="/vendors/sticky/jquery.sticky.min.js"></script>
+    <script src="/vendors/images-loaded/imagesloaded.js"></script>
+    <script src="/vendors/menuzord/menuzord.js"></script>
+    <script src="/vendors/isotope/jquery.isotope.js"></script>
+    <!--Fim do slide-->
+    <script src="../../js/index.js"></script>
+    <!--script src="/Scripts/mixitup.min.js"></!--script>
+    <script src="/Scripts/sly.min.js"></script>
+    </script-->
+    <script src="/js/jquery.nicescroll.min.js"></script>
+    <script src="/js/theme.js"></script>
+    <script src="/js/main.js"></script>
+</body>
+</html>

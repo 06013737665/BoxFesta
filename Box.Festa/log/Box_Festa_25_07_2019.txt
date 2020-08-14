@@ -1,0 +1,539 @@
+2019-07-25 06:33:29,484 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 06:41:18,516 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 06:43:59,476 [15] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 06:55:16,818 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 07:03:40,903 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 07:09:20,579 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 07:29:01,697 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 07:31:22,984 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 07:37:12,174 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 07:37:55,357 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 07:38:53,274 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 07:40:13,581 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 07:42:01,196 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 07:43:51,680 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 07:44:22,846 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 07:44:51,213 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 07:45:57,981 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 07:50:02,059 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 07:50:45,778 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 08:08:07,724 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Logar com Goole
+2019-07-25 08:08:33,266 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 08:16:07,478 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 08:16:19,751 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Logar com Goole
+2019-07-25 08:17:47,905 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 08:18:23,244 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 09:16:42,989 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 09:21:06,255 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 09:21:14,608 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Logar com Google
+2019-07-25 09:21:14,902 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 09:21:20,092 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 09:21:20,199 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 09:21:20,199 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 09:58:10,063 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 09:58:26,635 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 09:58:27,416 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 09:58:27,501 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 09:58:27,501 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 09:58:32,050 [5] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 09:58:32,056 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 09:58:32,822 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 09:58:33,377 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:00:21,413 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:01:00,984 [11] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 10:01:04,665 [11] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 10:01:04,760 [11] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 10:01:04,760 [11] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 10:01:08,623 [6] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 10:01:08,629 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 10:01:09,301 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 10:01:09,880 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:01:56,380 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 10:01:56,938 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 10:01:56,938 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 10:01:56,997 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 10:03:13,902 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:03:25,144 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 10:03:25,145 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 10:03:25,249 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 10:03:25,250 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 10:03:30,987 [6] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 10:03:30,994 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 10:03:31,678 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 10:03:32,219 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:03:58,897 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 10:03:59,337 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 10:03:59,337 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 10:03:59,381 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 10:05:29,436 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:05:49,324 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 10:05:49,325 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 10:05:49,416 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 10:05:49,416 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 10:05:54,210 [7] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 10:05:54,216 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 10:05:55,524 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 10:05:56,238 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:06:18,870 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 10:06:19,387 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 10:06:19,387 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 10:06:19,435 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 10:07:36,915 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:07:45,251 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 10:07:45,252 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 10:07:45,342 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 10:07:45,342 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 10:07:49,536 [5] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 10:07:49,543 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 10:07:50,250 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 10:07:50,773 [9] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:08:11,851 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 10:08:12,728 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 10:08:12,728 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 10:08:12,779 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 10:09:20,402 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:09:46,717 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 10:09:46,717 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 10:09:46,807 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 10:09:46,807 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 10:09:50,346 [7] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 10:09:50,351 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 10:09:51,650 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 10:09:52,247 [9] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:10:27,775 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 10:10:28,904 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - NOK System.Xml.XmlException: Dados no nнvel raiz invбlidos. Linha 1, posiзгo 1.
+   em System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   em System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   em System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   em System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   em System.Xml.XmlTextReaderImpl.Read()
+   em System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   em System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   em System.Xml.Linq.XDocument.Parse(String text)
+   em Box.Festa.Controllers.HomeController.PagSeguro() na C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:linha 925
+2019-07-25 10:14:43,961 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:14:55,300 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 10:14:55,300 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 10:14:55,386 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 10:14:55,386 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 10:14:59,506 [5] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 10:14:59,512 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 10:15:00,179 [12] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 10:15:00,745 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:15:21,448 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 10:15:21,916 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 10:15:21,916 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 10:15:21,952 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 10:22:32,878 [24] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 10:22:33,262 [24] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 10:22:33,262 [24] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 10:22:33,268 [24] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 10:25:52,491 [22] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 10:25:52,922 [22] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 10:25:52,922 [22] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 10:25:52,931 [22] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 10:27:10,523 [22] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 10:27:10,880 [22] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 10:27:10,880 [22] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 10:27:10,886 [22] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 10:27:45,028 [26] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 10:27:45,344 [26] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 10:27:45,344 [26] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 10:27:45,351 [26] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 10:30:43,501 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:31:48,393 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 10:31:48,394 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 10:31:48,474 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 10:31:48,474 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 10:31:53,807 [7] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 10:31:53,813 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 10:31:55,111 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 10:31:55,610 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:32:14,458 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 10:32:14,835 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 10:32:14,835 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 10:32:14,878 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 10:34:57,304 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 10:34:57,695 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 10:34:57,695 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 10:34:57,703 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 10:39:52,897 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:40:16,626 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 10:40:16,627 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 10:40:16,704 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 10:40:16,704 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 10:40:22,223 [7] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 10:40:22,230 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 10:40:22,900 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 10:40:23,498 [10] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:40:54,042 [5] DEBUG Box.Festa.Controllers.HomeController+<Sedex>d__13 Ц ------------------------------ CEP - NOK Cep nгo encontrado.
+2019-07-25 10:43:06,754 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:43:14,970 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 10:43:14,970 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 10:43:15,054 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 10:43:15,054 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 10:43:19,204 [5] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 10:43:19,212 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 10:43:19,878 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 10:43:20,448 [9] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:45:41,870 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:45:51,093 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 10:45:51,093 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 10:45:51,176 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 10:45:51,176 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 10:45:54,999 [5] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 10:45:55,007 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 10:45:55,598 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 10:45:56,176 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 10:46:58,592 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 10:46:58,985 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 10:46:58,985 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 10:46:59,027 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 10:58:32,912 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 11:36:53,198 [40] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 11:36:53,198 [40] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 11:36:53,283 [40] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 11:36:53,283 [40] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 11:36:57,925 [37] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 11:36:57,930 [37] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 11:36:58,754 [37] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 11:36:59,302 [42] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 11:37:26,386 [40] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 11:37:26,783 [40] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 11:37:26,783 [40] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 11:37:26,819 [40] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 11:41:42,759 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 11:42:22,637 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 11:42:22,638 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 11:42:22,719 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 11:42:22,720 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 11:42:27,345 [5] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 11:42:27,351 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 11:42:27,920 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 11:42:28,472 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 11:42:57,176 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 11:42:57,606 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 11:42:57,606 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 11:42:57,646 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 11:47:21,805 [27] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 11:50:15,600 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 11:50:57,521 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 11:50:57,521 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 11:50:57,608 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 11:50:57,608 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 11:51:02,558 [6] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 11:51:02,566 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 11:51:03,133 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 11:51:03,649 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 11:54:43,187 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 11:55:47,929 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 11:55:58,134 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 11:55:58,134 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 11:55:58,228 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 11:55:58,228 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 11:56:03,546 [5] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 11:56:03,552 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 11:56:04,289 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 11:56:04,828 [9] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 11:56:31,808 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 11:56:32,211 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 11:56:32,211 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 11:56:32,250 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 12:01:40,012 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 12:03:56,214 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 12:04:08,811 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 12:04:08,811 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 12:04:08,895 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 12:04:08,895 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 12:04:13,528 [11] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 12:04:13,534 [11] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 12:04:14,808 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 12:04:15,368 [11] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 12:04:37,663 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 12:04:38,074 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 12:04:38,074 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 12:04:38,113 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 12:10:00,988 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 12:16:37,985 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 12:17:04,027 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 12:19:30,017 [21] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 12:25:30,286 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 12:32:08,663 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 12:34:41,543 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 12:41:11,959 [24] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 12:56:26,703 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 12:56:45,687 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 12:58:01,590 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:01:40,168 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:01:52,580 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:02:34,421 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:02:56,591 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:04:15,894 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:05:25,249 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:08:03,986 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:08:27,491 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:08:49,355 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:09:18,657 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:09:32,571 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:09:49,131 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:11:44,167 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:18:24,956 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 13:18:25,012 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 13:18:25,281 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 13:18:25,281 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 13:18:29,131 [6] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 13:18:29,137 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 13:18:30,497 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 13:18:31,004 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:18:35,654 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 13:18:35,654 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 13:18:35,659 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 13:18:35,659 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 13:18:35,705 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Erro: System.ArgumentException: O valor nгo deve ser nulo nem vazio.
+Nome do parвmetro: url
+   em System.Web.Mvc.Controller.Redirect(String url)
+   em Box.Festa.Controllers.HomeController.SyncToGoogleCalendar() na C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:linha 853
+2019-07-25 13:18:46,599 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 13:18:46,599 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 13:18:56,946 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 13:18:59,366 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 13:19:16,207 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Erro: System.ArgumentException: O valor nгo deve ser nulo nem vazio.
+Nome do parвmetro: url
+   em System.Web.Mvc.Controller.Redirect(String url)
+   em Box.Festa.Controllers.HomeController.SyncToGoogleCalendar() na C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:linha 853
+2019-07-25 13:19:18,740 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 13:19:18,740 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 13:20:00,321 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 13:21:51,272 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:22:11,280 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 13:22:11,280 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 13:22:17,340 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 13:22:17,340 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 13:22:22,262 [5] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 13:22:22,268 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 13:22:24,076 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 13:22:24,600 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:22:29,157 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 13:22:29,158 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 13:22:29,162 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 13:22:29,162 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 13:23:45,135 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 13:23:45,135 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 13:23:45,135 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 13:23:45,135 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 13:23:49,485 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 13:23:49,485 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 13:23:49,485 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 13:23:49,485 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 13:24:02,569 [33] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 13:24:02,569 [33] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 13:24:02,569 [33] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 13:24:02,569 [33] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 13:24:17,199 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 13:24:17,199 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 13:24:17,199 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 13:24:17,199 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 13:24:25,872 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 13:24:25,872 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 13:24:25,872 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 13:24:25,872 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 13:24:34,509 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 13:24:34,509 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 13:24:34,509 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 13:24:34,509 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 13:25:11,956 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 13:25:11,956 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 13:25:56,475 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 13:35:00,305 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:35:26,813 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 13:35:26,813 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 13:35:33,334 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 13:35:33,334 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 13:35:37,470 [6] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 13:35:37,477 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 13:35:38,938 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 13:35:39,509 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 13:35:43,152 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 13:35:43,152 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 13:36:23,777 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 13:36:23,777 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 14:58:42,783 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 14:59:18,962 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 15:00:44,252 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 15:01:20,248 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 15:01:20,249 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 15:01:22,441 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 15:01:22,441 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 15:01:25,872 [5] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 15:01:25,875 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 15:01:27,311 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 15:01:57,423 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 15:02:25,939 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 15:02:25,939 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 15:02:25,963 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 15:02:25,963 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 15:02:29,730 [6] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 15:02:29,733 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 15:02:31,138 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 15:02:32,977 [9] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 15:02:38,648 [9] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - NOK <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>11024</code><message>Items invalid quantity.</message></error></errors>
+2019-07-25 15:03:04,258 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 15:03:09,902 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - NOK <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>11024</code><message>Items invalid quantity.</message></error></errors>
+2019-07-25 15:03:13,448 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 15:09:02,425 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 15:09:28,528 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------SyncToGoogleCalendar
+2019-07-25 15:09:28,528 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------getAuthResult
+2019-07-25 15:09:28,563 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Passou no getAuthResult
+2019-07-25 15:09:28,563 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------TesteGoogle.Apis.Auth.OAuth2.Web.AuthorizationCodeWebApp+AuthResult
+2019-07-25 15:09:32,042 [6] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 15:09:32,045 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 15:09:33,458 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 15:09:43,410 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 15:09:49,090 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 15:09:49,090 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 15:09:49,141 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 17:46:37,255 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 17:48:51,175 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 17:52:27,026 [9] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-07-25 17:52:27,042 [9] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------getAuthResult
+2019-07-25 17:52:31,541 [6] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 17:52:31,556 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 17:52:32,341 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 17:52:32,938 [9] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 17:52:45,294 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-07-25 17:52:45,294 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------getAuthResult
+2019-07-25 17:52:49,607 [8] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 17:52:49,607 [8] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 17:52:49,999 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 17:52:50,373 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 18:09:21,970 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 18:10:25,521 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 18:12:36,588 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 18:20:03,605 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 18:21:05,085 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-07-25 18:21:05,085 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------getAuthResult
+2019-07-25 18:21:09,382 [5] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 18:21:09,382 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 18:21:10,105 [5] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 18:21:10,638 [10] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 18:21:11,029 [10] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - NOK System.Xml.XmlException: Data at the root level is invalid. Line 1, position 1.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   at System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   at System.Xml.Linq.XDocument.Parse(String text)
+   at Box.Festa.Controllers.HomeController.PagSeguro() in C:\Box_Festa_Site\Box.Festa\Box.Festa\Controllers\HomeController.cs:line 881
+2019-07-25 18:26:47,113 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 18:28:42,202 [7] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-07-25 18:28:42,202 [7] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------getAuthResult
+2019-07-25 18:28:46,262 [6] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 18:28:46,277 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 18:28:47,032 [8] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 18:28:47,548 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 18:28:52,017 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 18:28:52,017 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 18:28:52,155 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 18:29:34,684 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 18:30:26,630 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 18:30:26,911 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 18:30:27,714 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 18:32:16,514 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 18:32:18,615 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 18:32:18,615 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 18:32:18,662 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 18:33:19,079 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 18:34:07,402 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-07-25 18:34:07,402 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------getAuthResult
+2019-07-25 18:34:11,841 [6] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 18:34:11,841 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 18:34:12,530 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 18:34:13,064 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 18:34:15,132 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 18:34:15,132 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 18:34:15,226 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 18:37:17,992 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 18:39:09,319 [11] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-07-25 18:39:09,319 [11] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------getAuthResult
+2019-07-25 18:39:13,599 [6] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 18:39:13,615 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 18:39:14,417 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 18:39:14,995 [11] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 18:39:42,467 [11] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 18:39:42,467 [11] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 18:39:42,546 [11] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 18:41:36,270 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 18:42:16,710 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-07-25 18:42:16,710 [6] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------getAuthResult
+2019-07-25 18:42:21,789 [6] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 18:42:21,805 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 18:42:22,431 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 18:42:22,996 [10] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 18:42:23,482 [10] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 18:42:23,482 [10] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 18:42:23,593 [10] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 18:53:41,731 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-07-25 18:53:41,747 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------getAuthResult
+2019-07-25 18:54:48,057 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 18:56:30,652 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 19:00:03,991 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 19:01:06,129 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 19:01:22,955 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 19:01:42,676 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 19:02:14,872 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 19:02:19,451 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 19:02:19,451 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 19:02:19,592 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 19:07:09,277 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 19:08:16,794 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 19:28:55,681 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 19:29:46,747 [7] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-07-25 19:29:46,747 [7] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------getAuthResult
+2019-07-25 19:29:52,015 [7] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 19:29:52,031 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 19:29:52,689 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 19:29:53,269 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 19:29:57,926 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 19:29:57,926 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 19:29:58,020 [8] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 19:31:00,035 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 19:31:43,578 [9] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-07-25 19:31:43,578 [9] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------getAuthResult
+2019-07-25 19:31:48,518 [7] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 19:31:48,534 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 19:31:49,130 [7] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 19:31:49,677 [9] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 19:31:54,220 [9] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 19:31:54,220 [9] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 19:31:54,367 [9] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 19:40:05,287 [5] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 19:40:48,077 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------controllerBox.Festa.Controllers.HomeController
+2019-07-25 19:40:48,077 [5] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer Ц -------------------------------getAuthResult
+2019-07-25 19:40:53,049 [6] DEBUG Box.Festa.Controllers.AuthCallbackController Ц -------------------------------Contrutor AUthCalback
+2019-07-25 19:40:53,080 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------IdenxAsync
+2019-07-25 19:40:53,643 [6] DEBUG Box.Festa.Controllers.AuthCallbackController+<IndexAsync>d__7 Ц -------------------------------Plus service
+2019-07-25 19:40:54,193 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 19:40:54,647 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro - OK - Checkout Efetuado sem erros
+2019-07-25 19:40:54,647 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Criar Pedido
+2019-07-25 19:40:54,772 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - OK - Pedido criado sem Erros
+2019-07-25 20:22:16,956 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 20:22:28,674 [7] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 20:22:38,209 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------PagSeguro
+2019-07-25 20:22:39,195 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Pedido - NOK <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>11024</code><message>Items invalid quantity.</message></error></errors>
+2019-07-25 20:26:13,192 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 20:26:45,458 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 20:28:07,011 [6] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 20:29:53,035 [13] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 20:30:46,333 [12] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 20:30:46,458 [14] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 20:31:26,144 [12] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 20:31:26,175 [14] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 20:31:55,552 [12] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 20:32:22,107 [12] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 20:34:00,732 [18] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 20:34:10,283 [18] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 20:34:41,871 [12] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 20:35:52,440 [12] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa
+2019-07-25 20:36:20,046 [12] DEBUG Box.Festa.Controllers.HomeController Ц -------------------------------Inicio Box Festa

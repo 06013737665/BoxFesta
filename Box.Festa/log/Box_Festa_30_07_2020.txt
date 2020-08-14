@@ -1,0 +1,6 @@
+2020-07-30 14:58:37,213 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-07-30 14:59:44,970 [13] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------controllerBox.Festa.Controllers.HomeController
+2020-07-30 14:59:44,970 [13] DEBUG Box.Festa.GoogleApi.GoogleCalendarSyncer – -------------------------------getAuthResult
+2020-07-30 15:24:55,582 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-07-30 15:40:01,969 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
+2020-07-30 15:49:03,431 [5] DEBUG Box.Festa.Controllers.HomeController – -------------------------------Inicio Box Festa
